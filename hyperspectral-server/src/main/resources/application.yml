@@ -1,0 +1,107 @@
+server:
+  port: 8000
+
+spring:
+  application:
+    name: hyperspectral-server
+  jackson:
+    time-zone: Asia/Shanghai
+    date-format: yyyy-MM-dd HH:mm:ss
+  servlet:
+    multipart:
+      max-file-size: 2048MB
+      max-request-size: 2048MB
+
+logging:
+  level:
+    com.hyper.spectral: info
+
+acquisition:
+  compatibility:
+    capture-root-dir: ${HYPER_CAPTURE_ROOT:}
+    mock-root-dir: ${user.dir}/runtime/mock-capture
+    wait-timeout-ms: 5000
+    poll-interval-ms: 500
+    sample-original-width: 1482
+    sample-original-height: 1762
+    sample-pseudo-width: 512
+    sample-pseudo-height: 512
+    sample-total-bands: 320
+    sample-visualization-bands:
+      - 66
+      - 44
+      - 19
+
+visualization:
+  compatibility:
+    hdr-root-dir: ${HYPER_VISUALIZATION_ROOT:}
+    preview-dir: ${user.dir}/runtime/visualization-previews
+    sample-original-width: 1482
+    sample-original-height: 1762
+    sample-pseudo-width: 512
+    sample-pseudo-height: 512
+    sample-total-bands: 320
+    sample-wavelength-range: 400-1700nm
+    sample-visualization-bands:
+      - 66
+      - 44
+      - 19
+
+fusion:
+  compatibility:
+    search-root-dir: ${HYPER_FUSION_SEARCH_ROOT:}
+    result-dir: ${user.dir}/runtime/fusion-results
+    sample-fusion-width: 512
+    sample-fusion-height: 512
+    sample-total-bands: 320
+    registration-lr-size: ${HYPER_FUSION_LR_SIZE:0}
+    keep-intermediate-mat: true
+  miae:
+    enabled: ${HYPER_MIAE_ENABLED:true}
+    python-command: ${HYPER_MIAE_PYTHON:${HYPER_HYSURE_PYTHON:}}
+    conda-command: ${HYPER_MIAE_CONDA:conda}
+    conda-environment: ${HYPER_MIAE_CONDA_ENV:htd}
+    runner-path: ${HYPER_MIAE_RUNNER:../miae_fusion_runner.py}
+    timeout-seconds: ${HYPER_MIAE_TIMEOUT_SECONDS:10800}
+    device: ${HYPER_MIAE_DEVICE:cuda}
+    random-seed: ${HYPER_MIAE_SEED:2026}
+    blind-iterations: ${HYPER_MIAE_BLIND_ITERATIONS:3000}
+    fusion-iterations: ${HYPER_MIAE_FUSION_ITERATIONS:5000}
+    batch-size: ${HYPER_MIAE_BATCH_SIZE:16}
+    patch-size: ${HYPER_MIAE_PATCH_SIZE:64}
+    endmembers: ${HYPER_MIAE_ENDMEMBERS:30}
+    stages: ${HYPER_MIAE_STAGES:3}
+    tile-size: ${HYPER_MIAE_TILE_SIZE:256}
+    halo-low-resolution: ${HYPER_MIAE_HALO_LR:2}
+    log-every: ${HYPER_MIAE_LOG_EVERY:100}
+    amp-inference: ${HYPER_MIAE_AMP_INFERENCE:false}
+    spectrum-timeout-millis: ${HYPER_MIAE_SPECTRUM_TIMEOUT_MILLIS:15000}
+  hysure:
+    enabled: ${HYPER_HYSURE_ENABLED:false}
+    python-command: ${HYPER_HYSURE_PYTHON:}
+    conda-command: ${HYPER_HYSURE_CONDA:conda}
+    conda-environment: ${HYPER_HYSURE_CONDA_ENV:htd}
+    runner-path: ${HYPER_HYSURE_RUNNER:../Hysure-python/hysure_runner.py}
+    timeout-seconds: ${HYPER_HYSURE_TIMEOUT_SECONDS:1800}
+    subspace-dimension: ${HYPER_HYSURE_SUBSPACE:10}
+    iterations: ${HYPER_HYSURE_ITERATIONS:30}
+    random-seed: ${HYPER_HYSURE_SEED:0}
+    blur-support: ${HYPER_HYSURE_BLUR_SUPPORT:10}
+    output-block-rows: ${HYPER_HYSURE_BLOCK_ROWS:32}
+
+detection:
+  compatibility:
+    python-command: ${HYPER_DETECTION_PYTHON:python}
+    runner-path: ${HYPER_DETECTION_RUNNER:../detection_runner.py}
+    work-dir: ${user.dir}/runtime/detection-work
+    target-spectrum-mat: ${HYPER_DETECTION_TARGET_MAT:${user.dir}/wzcl.mat}
+    htd-mamba-python-command: ${HYPER_HTD_MAMBA_PYTHON:}
+    htd-mamba-conda-command: ${HYPER_HTD_MAMBA_CONDA:conda}
+    htd-mamba-conda-environment: ${HYPER_HTD_MAMBA_ENV:htd}
+    htd-mamba-root: ${HYPER_HTD_MAMBA_ROOT:../lab-htd-main}
+    htd-mamba-model-dataset: ${HYPER_HTD_MAMBA_MODEL_DATASET:joint}
+    htd-mamba-device: ${HYPER_HTD_MAMBA_DEVICE:auto}
+    htd-mamba-batch-size: ${HYPER_HTD_MAMBA_BATCH_SIZE:256}
+    random-delay-min-seconds: ${HYPER_DETECTION_RANDOM_DELAY_MIN_SECONDS:0}
+    random-delay-max-seconds: ${HYPER_DETECTION_RANDOM_DELAY_MAX_SECONDS:0}
+    timeout-seconds: 3600

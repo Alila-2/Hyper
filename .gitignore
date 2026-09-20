@@ -1,0 +1,67 @@
+# IDE and operating-system metadata
+.idea/
+.vscode/
+.vs/
+*.iml
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.lnk
+
+# JavaScript dependencies and generated bundles
+**/node_modules/
+**/dist/
+
+# Java/Maven build output and local binaries
+**/target/
+*.jar
+
+# Python caches and local environments
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Runtime output and temporary workspaces
+**/runtime/
+tmp/
+*.log
+*.tmp
+*.temp
+*.bak
+*~
+
+# Datasets, model weights, generated arrays, and archives
+**/lab_htd_datasets/
+**/data/
+**/models/
+**/checkpoints/
+*.mat
+*.h5
+*.hdf5
+*.npz
+*.npy
+*.img
+*.hdr
+*.raw
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.tgz
+
+# Demo videos are distributed separately from source code
+**/videosLib/
+
+# Local secrets and machine-specific overrides
+.env
+.env.*
+!.env.example
+application-local.yml
+application-local.yaml

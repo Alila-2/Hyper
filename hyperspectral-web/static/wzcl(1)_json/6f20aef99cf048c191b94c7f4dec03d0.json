@@ -1,0 +1,1284 @@
+{
+  "data": [
+    {
+      "wavelength": 400,
+      "reflectance": 11664
+    },
+    {
+      "wavelength": 404.07523510971788,
+      "reflectance": 11328
+    },
+    {
+      "wavelength": 408.15047021943576,
+      "reflectance": 11560
+    },
+    {
+      "wavelength": 412.22570532915358,
+      "reflectance": 11960
+    },
+    {
+      "wavelength": 416.30094043887146,
+      "reflectance": 11848
+    },
+    {
+      "wavelength": 420.37617554858934,
+      "reflectance": 12248
+    },
+    {
+      "wavelength": 424.45141065830722,
+      "reflectance": 12008
+    },
+    {
+      "wavelength": 428.52664576802511,
+      "reflectance": 12280
+    },
+    {
+      "wavelength": 432.60188087774293,
+      "reflectance": 11952
+    },
+    {
+      "wavelength": 436.67711598746081,
+      "reflectance": 12360
+    },
+    {
+      "wavelength": 440.75235109717869,
+      "reflectance": 12544
+    },
+    {
+      "wavelength": 444.82758620689657,
+      "reflectance": 13568
+    },
+    {
+      "wavelength": 448.90282131661445,
+      "reflectance": 13888
+    },
+    {
+      "wavelength": 452.97805642633227,
+      "reflectance": 13960
+    },
+    {
+      "wavelength": 457.05329153605015,
+      "reflectance": 14912
+    },
+    {
+      "wavelength": 461.12852664576803,
+      "reflectance": 14608
+    },
+    {
+      "wavelength": 465.20376175548591,
+      "reflectance": 15080
+    },
+    {
+      "wavelength": 469.27899686520379,
+      "reflectance": 15600
+    },
+    {
+      "wavelength": 473.35423197492162,
+      "reflectance": 15416
+    },
+    {
+      "wavelength": 477.4294670846395,
+      "reflectance": 15768
+    },
+    {
+      "wavelength": 481.50470219435738,
+      "reflectance": 15912
+    },
+    {
+      "wavelength": 485.5799373040752,
+      "reflectance": 17096
+    },
+    {
+      "wavelength": 489.65517241379314,
+      "reflectance": 17288
+    },
+    {
+      "wavelength": 493.73040752351096,
+      "reflectance": 17832
+    },
+    {
+      "wavelength": 497.80564263322884,
+      "reflectance": 18328
+    },
+    {
+      "wavelength": 501.88087774294672,
+      "reflectance": 18912
+    },
+    {
+      "wavelength": 505.95611285266455,
+      "reflectance": 19400
+    },
+    {
+      "wavelength": 510.03134796238243,
+      "reflectance": 19648
+    },
+    {
+      "wavelength": 514.10658307210031,
+      "reflectance": 19608
+    },
+    {
+      "wavelength": 518.18181818181824,
+      "reflectance": 20424
+    },
+    {
+      "wavelength": 522.25705329153607,
+      "reflectance": 20808
+    },
+    {
+      "wavelength": 526.33228840125389,
+      "reflectance": 21008
+    },
+    {
+      "wavelength": 530.40752351097183,
+      "reflectance": 21160
+    },
+    {
+      "wavelength": 534.48275862068965,
+      "reflectance": 21384
+    },
+    {
+      "wavelength": 538.55799373040759,
+      "reflectance": 21128
+    },
+    {
+      "wavelength": 542.63322884012541,
+      "reflectance": 22336
+    },
+    {
+      "wavelength": 546.70846394984324,
+      "reflectance": 22696
+    },
+    {
+      "wavelength": 550.78369905956106,
+      "reflectance": 22704
+    },
+    {
+      "wavelength": 554.858934169279,
+      "reflectance": 23672
+    },
+    {
+      "wavelength": 558.93416927899693,
+      "reflectance": 23272
+    },
+    {
+      "wavelength": 563.00940438871476,
+      "reflectance": 23440
+    },
+    {
+      "wavelength": 567.08463949843258,
+      "reflectance": 25144
+    },
+    {
+      "wavelength": 571.1598746081504,
+      "reflectance": 25128
+    },
+    {
+      "wavelength": 575.23510971786834,
+      "reflectance": 25776
+    },
+    {
+      "wavelength": 579.31034482758628,
+      "reflectance": 26456
+    },
+    {
+      "wavelength": 583.3855799373041,
+      "reflectance": 26816
+    },
+    {
+      "wavelength": 587.46081504702192,
+      "reflectance": 27496
+    },
+    {
+      "wavelength": 591.53605015673975,
+      "reflectance": 28304
+    },
+    {
+      "wavelength": 595.61128526645768,
+      "reflectance": 28880
+    },
+    {
+      "wavelength": 599.68652037617551,
+      "reflectance": 28640
+    },
+    {
+      "wavelength": 603.76175548589345,
+      "reflectance": 29248
+    },
+    {
+      "wavelength": 607.83699059561127,
+      "reflectance": 30304
+    },
+    {
+      "wavelength": 611.91222570532909,
+      "reflectance": 29744
+    },
+    {
+      "wavelength": 615.987460815047,
+      "reflectance": 30752
+    },
+    {
+      "wavelength": 620.06269592476485,
+      "reflectance": 31256
+    },
+    {
+      "wavelength": 624.13793103448279,
+      "reflectance": 32448
+    },
+    {
+      "wavelength": 628.21316614420061,
+      "reflectance": 32488
+    },
+    {
+      "wavelength": 632.28840125391844,
+      "reflectance": 32296
+    },
+    {
+      "wavelength": 636.36363636363637,
+      "reflectance": 33248
+    },
+    {
+      "wavelength": 640.4388714733542,
+      "reflectance": 33664
+    },
+    {
+      "wavelength": 644.51410658307213,
+      "reflectance": 34472
+    },
+    {
+      "wavelength": 648.58934169279,
+      "reflectance": 36416
+    },
+    {
+      "wavelength": 652.66457680250778,
+      "reflectance": 36280
+    },
+    {
+      "wavelength": 656.73981191222572,
+      "reflectance": 36608
+    },
+    {
+      "wavelength": 660.81504702194366,
+      "reflectance": 37920
+    },
+    {
+      "wavelength": 664.89028213166148,
+      "reflectance": 38504
+    },
+    {
+      "wavelength": 668.9655172413793,
+      "reflectance": 38072
+    },
+    {
+      "wavelength": 673.04075235109713,
+      "reflectance": 38512
+    },
+    {
+      "wavelength": 677.11598746081506,
+      "reflectance": 39600
+    },
+    {
+      "wavelength": 681.191222570533,
+      "reflectance": 40600
+    },
+    {
+      "wavelength": 685.26645768025082,
+      "reflectance": 40376
+    },
+    {
+      "wavelength": 689.34169278996865,
+      "reflectance": 39904
+    },
+    {
+      "wavelength": 693.41692789968647,
+      "reflectance": 40752
+    },
+    {
+      "wavelength": 697.49216300940441,
+      "reflectance": 40784
+    },
+    {
+      "wavelength": 701.56739811912223,
+      "reflectance": 41488
+    },
+    {
+      "wavelength": 705.64263322884017,
+      "reflectance": 42752
+    },
+    {
+      "wavelength": 709.717868338558,
+      "reflectance": 43584
+    },
+    {
+      "wavelength": 713.79310344827582,
+      "reflectance": 44016
+    },
+    {
+      "wavelength": 717.86833855799375,
+      "reflectance": 44752
+    },
+    {
+      "wavelength": 721.94357366771158,
+      "reflectance": 45152
+    },
+    {
+      "wavelength": 726.01880877742951,
+      "reflectance": 44624
+    },
+    {
+      "wavelength": 730.09404388714734,
+      "reflectance": 42288
+    },
+    {
+      "wavelength": 734.16927899686516,
+      "reflectance": 42392
+    },
+    {
+      "wavelength": 738.2445141065831,
+      "reflectance": 44184
+    },
+    {
+      "wavelength": 742.31974921630092,
+      "reflectance": 44544
+    },
+    {
+      "wavelength": 746.39498432601886,
+      "reflectance": 46208
+    },
+    {
+      "wavelength": 750.47021943573668,
+      "reflectance": 47400
+    },
+    {
+      "wavelength": 754.5454545454545,
+      "reflectance": 48808
+    },
+    {
+      "wavelength": 758.62068965517244,
+      "reflectance": 46208
+    },
+    {
+      "wavelength": 762.69592476489026,
+      "reflectance": 44200
+    },
+    {
+      "wavelength": 766.7711598746082,
+      "reflectance": 44544
+    },
+    {
+      "wavelength": 770.846394984326,
+      "reflectance": 45776
+    },
+    {
+      "wavelength": 774.92163009404385,
+      "reflectance": 49168
+    },
+    {
+      "wavelength": 778.99686520376167,
+      "reflectance": 52928
+    },
+    {
+      "wavelength": 783.07210031347961,
+      "reflectance": 54080
+    },
+    {
+      "wavelength": 787.14733542319755,
+      "reflectance": 56040
+    },
+    {
+      "wavelength": 791.22257053291537,
+      "reflectance": 57392
+    },
+    {
+      "wavelength": 795.29780564263319,
+      "reflectance": 58336
+    },
+    {
+      "wavelength": 799.373040752351,
+      "reflectance": 56640
+    },
+    {
+      "wavelength": 803.448275862069,
+      "reflectance": 41912
+    },
+    {
+      "wavelength": 807.52351097178689,
+      "reflectance": 42576
+    },
+    {
+      "wavelength": 811.59874608150471,
+      "reflectance": 53272
+    },
+    {
+      "wavelength": 815.67398119122254,
+      "reflectance": 59680
+    },
+    {
+      "wavelength": 819.74921630094036,
+      "reflectance": 61600
+    },
+    {
+      "wavelength": 823.8244514106583,
+      "reflectance": 61792
+    },
+    {
+      "wavelength": 827.89968652037624,
+      "reflectance": 62440
+    },
+    {
+      "wavelength": 831.97492163009406,
+      "reflectance": 62440
+    },
+    {
+      "wavelength": 836.05015673981188,
+      "reflectance": 61968
+    },
+    {
+      "wavelength": 840.12539184952971,
+      "reflectance": 63144
+    },
+    {
+      "wavelength": 844.20062695924764,
+      "reflectance": 64232
+    },
+    {
+      "wavelength": 848.27586206896558,
+      "reflectance": 64952
+    },
+    {
+      "wavelength": 852.3510971786834,
+      "reflectance": 65280
+    },
+    {
+      "wavelength": 856.42633228840123,
+      "reflectance": 61768
+    },
+    {
+      "wavelength": 860.501567398119,
+      "reflectance": 58080
+    },
+    {
+      "wavelength": 864.576802507837,
+      "reflectance": 59552
+    },
+    {
+      "wavelength": 868.65203761755492,
+      "reflectance": 63008
+    },
+    {
+      "wavelength": 872.72727272727275,
+      "reflectance": 64440
+    },
+    {
+      "wavelength": 876.80250783699057,
+      "reflectance": 65519
+    },
+    {
+      "wavelength": 880.87774294670839,
+      "reflectance": 65535
+    },
+    {
+      "wavelength": 884.95297805642633,
+      "reflectance": 65535
+    },
+    {
+      "wavelength": 889.02821316614427,
+      "reflectance": 65535
+    },
+    {
+      "wavelength": 893.10344827586209,
+      "reflectance": 65535
+    },
+    {
+      "wavelength": 897.17868338557992,
+      "reflectance": 65535
+    },
+    {
+      "wavelength": 901.25391849529774,
+      "reflectance": 65535
+    },
+    {
+      "wavelength": 905.32915360501568,
+      "reflectance": 65535
+    },
+    {
+      "wavelength": 909.40438871473361,
+      "reflectance": 65535
+    },
+    {
+      "wavelength": 913.47962382445144,
+      "reflectance": 65535
+    },
+    {
+      "wavelength": 917.55485893416926,
+      "reflectance": 65535
+    },
+    {
+      "wavelength": 921.6300940438872,
+      "reflectance": 65535
+    },
+    {
+      "wavelength": 925.705329153605,
+      "reflectance": 65535
+    },
+    {
+      "wavelength": 929.78056426332284,
+      "reflectance": 65535
+    },
+    {
+      "wavelength": 933.85579937304078,
+      "reflectance": 65535
+    },
+    {
+      "wavelength": 937.93103448275861,
+      "reflectance": 65535
+    },
+    {
+      "wavelength": 942.00626959247654,
+      "reflectance": 62296
+    },
+    {
+      "wavelength": 946.08150470219437,
+      "reflectance": 62968
+    },
+    {
+      "wavelength": 950.15673981191219,
+      "reflectance": 62168
+    },
+    {
+      "wavelength": 954.23197492163013,
+      "reflectance": 59760
+    },
+    {
+      "wavelength": 958.307210031348,
+      "reflectance": 57928
+    },
+    {
+      "wavelength": 962.38244514106589,
+      "reflectance": 60944
+    },
+    {
+      "wavelength": 966.45768025078371,
+      "reflectance": 62464
+    },
+    {
+      "wavelength": 970.53291536050153,
+      "reflectance": 58776
+    },
+    {
+      "wavelength": 974.60815047021947,
+      "reflectance": 44408
+    },
+    {
+      "wavelength": 978.68338557993729,
+      "reflectance": 33456
+    },
+    {
+      "wavelength": 982.75862068965512,
+      "reflectance": 36528
+    },
+    {
+      "wavelength": 986.833855799373,
+      "reflectance": 36936
+    },
+    {
+      "wavelength": 990.90909090909088,
+      "reflectance": 37176
+    },
+    {
+      "wavelength": 994.98432601880882,
+      "reflectance": 37480
+    },
+    {
+      "wavelength": 999.05956112852664,
+      "reflectance": 38952
+    },
+    {
+      "wavelength": 1003.1347962382445,
+      "reflectance": 41160
+    },
+    {
+      "wavelength": 1007.2100313479624,
+      "reflectance": 45312
+    },
+    {
+      "wavelength": 1011.2852664576802,
+      "reflectance": 51864
+    },
+    {
+      "wavelength": 1015.3605015673982,
+      "reflectance": 57016
+    },
+    {
+      "wavelength": 1019.435736677116,
+      "reflectance": 56792
+    },
+    {
+      "wavelength": 1023.5109717868338,
+      "reflectance": 58680
+    },
+    {
+      "wavelength": 1027.5862068965516,
+      "reflectance": 62616
+    },
+    {
+      "wavelength": 1031.6614420062697,
+      "reflectance": 65144
+    },
+    {
+      "wavelength": 1035.7366771159875,
+      "reflectance": 65392
+    },
+    {
+      "wavelength": 1039.8119122257053,
+      "reflectance": 65527
+    },
+    {
+      "wavelength": 1043.8871473354232,
+      "reflectance": 65511
+    },
+    {
+      "wavelength": 1047.962382445141,
+      "reflectance": 64984
+    },
+    {
+      "wavelength": 1052.037617554859,
+      "reflectance": 64544
+    },
+    {
+      "wavelength": 1056.1128526645768,
+      "reflectance": 64848
+    },
+    {
+      "wavelength": 1060.1880877742947,
+      "reflectance": 64848
+    },
+    {
+      "wavelength": 1064.2633228840125,
+      "reflectance": 64216
+    },
+    {
+      "wavelength": 1068.3385579937303,
+      "reflectance": 62528
+    },
+    {
+      "wavelength": 1072.4137931034484,
+      "reflectance": 63312
+    },
+    {
+      "wavelength": 1076.4890282131662,
+      "reflectance": 62600
+    },
+    {
+      "wavelength": 1080.564263322884,
+      "reflectance": 61696
+    },
+    {
+      "wavelength": 1084.6394984326018,
+      "reflectance": 61248
+    },
+    {
+      "wavelength": 1088.7147335423197,
+      "reflectance": 60840
+    },
+    {
+      "wavelength": 1092.7899686520377,
+      "reflectance": 59968
+    },
+    {
+      "wavelength": 1096.8652037617555,
+      "reflectance": 59136
+    },
+    {
+      "wavelength": 1100.9404388714734,
+      "reflectance": 57768
+    },
+    {
+      "wavelength": 1105.0156739811912,
+      "reflectance": 57312
+    },
+    {
+      "wavelength": 1109.090909090909,
+      "reflectance": 56808
+    },
+    {
+      "wavelength": 1113.1661442006271,
+      "reflectance": 55888
+    },
+    {
+      "wavelength": 1117.2413793103449,
+      "reflectance": 55336
+    },
+    {
+      "wavelength": 1121.3166144200627,
+      "reflectance": 54416
+    },
+    {
+      "wavelength": 1125.3918495297805,
+      "reflectance": 53880
+    },
+    {
+      "wavelength": 1129.4670846394984,
+      "reflectance": 53056
+    },
+    {
+      "wavelength": 1133.5423197492164,
+      "reflectance": 52064
+    },
+    {
+      "wavelength": 1137.617554858934,
+      "reflectance": 51368
+    },
+    {
+      "wavelength": 1141.6927899686521,
+      "reflectance": 49048
+    },
+    {
+      "wavelength": 1145.7680250783699,
+      "reflectance": 47192
+    },
+    {
+      "wavelength": 1149.8432601880877,
+      "reflectance": 44360
+    },
+    {
+      "wavelength": 1153.9184952978057,
+      "reflectance": 42432
+    },
+    {
+      "wavelength": 1157.9937304075233,
+      "reflectance": 39336
+    },
+    {
+      "wavelength": 1162.0689655172414,
+      "reflectance": 32448
+    },
+    {
+      "wavelength": 1166.1442006269592,
+      "reflectance": 24760
+    },
+    {
+      "wavelength": 1170.219435736677,
+      "reflectance": 21368
+    },
+    {
+      "wavelength": 1174.2946708463951,
+      "reflectance": 20456
+    },
+    {
+      "wavelength": 1178.3699059561127,
+      "reflectance": 22472
+    },
+    {
+      "wavelength": 1182.4451410658307,
+      "reflectance": 21432
+    },
+    {
+      "wavelength": 1186.5203761755486,
+      "reflectance": 24464
+    },
+    {
+      "wavelength": 1190.5956112852664,
+      "reflectance": 26088
+    },
+    {
+      "wavelength": 1194.6708463949844,
+      "reflectance": 23016
+    },
+    {
+      "wavelength": 1198.746081504702,
+      "reflectance": 23472
+    },
+    {
+      "wavelength": 1202.82131661442,
+      "reflectance": 25504
+    },
+    {
+      "wavelength": 1206.8965517241379,
+      "reflectance": 29088
+    },
+    {
+      "wavelength": 1210.9717868338557,
+      "reflectance": 32400
+    },
+    {
+      "wavelength": 1215.0470219435738,
+      "reflectance": 34880
+    },
+    {
+      "wavelength": 1219.1222570532914,
+      "reflectance": 36736
+    },
+    {
+      "wavelength": 1223.1974921630094,
+      "reflectance": 37464
+    },
+    {
+      "wavelength": 1227.2727272727273,
+      "reflectance": 37536
+    },
+    {
+      "wavelength": 1231.3479623824451,
+      "reflectance": 36816
+    },
+    {
+      "wavelength": 1235.4231974921631,
+      "reflectance": 36776
+    },
+    {
+      "wavelength": 1239.4984326018807,
+      "reflectance": 36592
+    },
+    {
+      "wavelength": 1243.5736677115988,
+      "reflectance": 37712
+    },
+    {
+      "wavelength": 1247.6489028213166,
+      "reflectance": 37632
+    },
+    {
+      "wavelength": 1251.7241379310344,
+      "reflectance": 36312
+    },
+    {
+      "wavelength": 1255.7993730407525,
+      "reflectance": 36072
+    },
+    {
+      "wavelength": 1259.87460815047,
+      "reflectance": 37032
+    },
+    {
+      "wavelength": 1263.9498432601881,
+      "reflectance": 36512
+    },
+    {
+      "wavelength": 1268.0250783699059,
+      "reflectance": 37024
+    },
+    {
+      "wavelength": 1272.1003134796238,
+      "reflectance": 37856
+    },
+    {
+      "wavelength": 1276.1755485893418,
+      "reflectance": 38104
+    },
+    {
+      "wavelength": 1280.2507836990594,
+      "reflectance": 38824
+    },
+    {
+      "wavelength": 1284.3260188087775,
+      "reflectance": 38728
+    },
+    {
+      "wavelength": 1288.4012539184953,
+      "reflectance": 39008
+    },
+    {
+      "wavelength": 1292.4764890282131,
+      "reflectance": 38904
+    },
+    {
+      "wavelength": 1296.5517241379312,
+      "reflectance": 38720
+    },
+    {
+      "wavelength": 1300.6269592476488,
+      "reflectance": 38496
+    },
+    {
+      "wavelength": 1304.7021943573668,
+      "reflectance": 37912
+    },
+    {
+      "wavelength": 1308.7774294670846,
+      "reflectance": 36776
+    },
+    {
+      "wavelength": 1312.8526645768025,
+      "reflectance": 35520
+    },
+    {
+      "wavelength": 1316.9278996865205,
+      "reflectance": 34344
+    },
+    {
+      "wavelength": 1321.0031347962381,
+      "reflectance": 32408
+    },
+    {
+      "wavelength": 1325.0783699059562,
+      "reflectance": 31496
+    },
+    {
+      "wavelength": 1329.153605015674,
+      "reflectance": 33160
+    },
+    {
+      "wavelength": 1333.2288401253918,
+      "reflectance": 34552
+    },
+    {
+      "wavelength": 1337.3040752351098,
+      "reflectance": 33824
+    },
+    {
+      "wavelength": 1341.3793103448274,
+      "reflectance": 34024
+    },
+    {
+      "wavelength": 1345.4545454545455,
+      "reflectance": 34016
+    },
+    {
+      "wavelength": 1349.5297805642633,
+      "reflectance": 34040
+    },
+    {
+      "wavelength": 1353.6050156739811,
+      "reflectance": 32592
+    },
+    {
+      "wavelength": 1357.6802507836992,
+      "reflectance": 32080
+    },
+    {
+      "wavelength": 1361.7554858934168,
+      "reflectance": 29688
+    },
+    {
+      "wavelength": 1365.8307210031348,
+      "reflectance": 29312
+    },
+    {
+      "wavelength": 1369.9059561128527,
+      "reflectance": 27472
+    },
+    {
+      "wavelength": 1373.9811912225705,
+      "reflectance": 26848
+    },
+    {
+      "wavelength": 1378.0564263322885,
+      "reflectance": 25080
+    },
+    {
+      "wavelength": 1382.1316614420061,
+      "reflectance": 24744
+    },
+    {
+      "wavelength": 1386.2068965517242,
+      "reflectance": 23336
+    },
+    {
+      "wavelength": 1390.282131661442,
+      "reflectance": 20584
+    },
+    {
+      "wavelength": 1394.3573667711598,
+      "reflectance": 21048
+    },
+    {
+      "wavelength": 1398.4326018808779,
+      "reflectance": 20256
+    },
+    {
+      "wavelength": 1402.5078369905955,
+      "reflectance": 19264
+    },
+    {
+      "wavelength": 1406.5830721003135,
+      "reflectance": 16752
+    },
+    {
+      "wavelength": 1410.6583072100314,
+      "reflectance": 14688
+    },
+    {
+      "wavelength": 1414.7335423197492,
+      "reflectance": 13184
+    },
+    {
+      "wavelength": 1418.8087774294672,
+      "reflectance": 13344
+    },
+    {
+      "wavelength": 1422.8840125391848,
+      "reflectance": 13360
+    },
+    {
+      "wavelength": 1426.9592476489029,
+      "reflectance": 13344
+    },
+    {
+      "wavelength": 1431.0344827586207,
+      "reflectance": 13272
+    },
+    {
+      "wavelength": 1435.1097178683385,
+      "reflectance": 13488
+    },
+    {
+      "wavelength": 1439.1849529780563,
+      "reflectance": 13080
+    },
+    {
+      "wavelength": 1443.2601880877744,
+      "reflectance": 13512
+    },
+    {
+      "wavelength": 1447.3354231974922,
+      "reflectance": 13320
+    },
+    {
+      "wavelength": 1451.41065830721,
+      "reflectance": 13464
+    },
+    {
+      "wavelength": 1455.4858934169279,
+      "reflectance": 12808
+    },
+    {
+      "wavelength": 1459.5611285266457,
+      "reflectance": 13392
+    },
+    {
+      "wavelength": 1463.6363636363637,
+      "reflectance": 13064
+    },
+    {
+      "wavelength": 1467.7115987460816,
+      "reflectance": 13080
+    },
+    {
+      "wavelength": 1471.7868338557994,
+      "reflectance": 12632
+    },
+    {
+      "wavelength": 1475.8620689655172,
+      "reflectance": 13024
+    },
+    {
+      "wavelength": 1479.937304075235,
+      "reflectance": 12816
+    },
+    {
+      "wavelength": 1484.0125391849531,
+      "reflectance": 13304
+    },
+    {
+      "wavelength": 1488.0877742946709,
+      "reflectance": 12840
+    },
+    {
+      "wavelength": 1492.1630094043887,
+      "reflectance": 13376
+    },
+    {
+      "wavelength": 1496.2382445141066,
+      "reflectance": 13160
+    },
+    {
+      "wavelength": 1500.3134796238244,
+      "reflectance": 12912
+    },
+    {
+      "wavelength": 1504.3887147335424,
+      "reflectance": 13296
+    },
+    {
+      "wavelength": 1508.4639498432603,
+      "reflectance": 12752
+    },
+    {
+      "wavelength": 1512.5391849529781,
+      "reflectance": 13176
+    },
+    {
+      "wavelength": 1516.6144200626959,
+      "reflectance": 12744
+    },
+    {
+      "wavelength": 1520.6896551724137,
+      "reflectance": 13256
+    },
+    {
+      "wavelength": 1524.7648902821318,
+      "reflectance": 13936
+    },
+    {
+      "wavelength": 1528.8401253918496,
+      "reflectance": 13784
+    },
+    {
+      "wavelength": 1532.9153605015674,
+      "reflectance": 13648
+    },
+    {
+      "wavelength": 1536.9905956112852,
+      "reflectance": 13480
+    },
+    {
+      "wavelength": 1541.0658307210031,
+      "reflectance": 13304
+    },
+    {
+      "wavelength": 1545.1410658307209,
+      "reflectance": 13536
+    },
+    {
+      "wavelength": 1549.2163009404389,
+      "reflectance": 13768
+    },
+    {
+      "wavelength": 1553.2915360501568,
+      "reflectance": 13304
+    },
+    {
+      "wavelength": 1557.3667711598746,
+      "reflectance": 13960
+    },
+    {
+      "wavelength": 1561.4420062695924,
+      "reflectance": 13568
+    },
+    {
+      "wavelength": 1565.5172413793102,
+      "reflectance": 14160
+    },
+    {
+      "wavelength": 1569.5924764890283,
+      "reflectance": 14312
+    },
+    {
+      "wavelength": 1573.6677115987461,
+      "reflectance": 15088
+    },
+    {
+      "wavelength": 1577.7429467084639,
+      "reflectance": 14912
+    },
+    {
+      "wavelength": 1581.8181818181818,
+      "reflectance": 14416
+    },
+    {
+      "wavelength": 1585.8934169278996,
+      "reflectance": 15072
+    },
+    {
+      "wavelength": 1589.9686520376176,
+      "reflectance": 14904
+    },
+    {
+      "wavelength": 1594.0438871473355,
+      "reflectance": 14904
+    },
+    {
+      "wavelength": 1598.1191222570533,
+      "reflectance": 14584
+    },
+    {
+      "wavelength": 1602.1943573667711,
+      "reflectance": 14528
+    },
+    {
+      "wavelength": 1606.2695924764889,
+      "reflectance": 14696
+    },
+    {
+      "wavelength": 1610.344827586207,
+      "reflectance": 14320
+    },
+    {
+      "wavelength": 1614.4200626959248,
+      "reflectance": 14272
+    },
+    {
+      "wavelength": 1618.4952978056426,
+      "reflectance": 14760
+    },
+    {
+      "wavelength": 1622.5705329153604,
+      "reflectance": 14560
+    },
+    {
+      "wavelength": 1626.6457680250783,
+      "reflectance": 15056
+    },
+    {
+      "wavelength": 1630.7210031347963,
+      "reflectance": 14736
+    },
+    {
+      "wavelength": 1634.7962382445141,
+      "reflectance": 14768
+    },
+    {
+      "wavelength": 1638.871473354232,
+      "reflectance": 14352
+    },
+    {
+      "wavelength": 1642.9467084639498,
+      "reflectance": 14328
+    },
+    {
+      "wavelength": 1647.0219435736676,
+      "reflectance": 13784
+    },
+    {
+      "wavelength": 1651.0971786833857,
+      "reflectance": 14208
+    },
+    {
+      "wavelength": 1655.1724137931035,
+      "reflectance": 13656
+    },
+    {
+      "wavelength": 1659.2476489028213,
+      "reflectance": 13760
+    },
+    {
+      "wavelength": 1663.3228840125391,
+      "reflectance": 13192
+    },
+    {
+      "wavelength": 1667.398119122257,
+      "reflectance": 13600
+    },
+    {
+      "wavelength": 1671.473354231975,
+      "reflectance": 13328
+    },
+    {
+      "wavelength": 1675.5485893416928,
+      "reflectance": 13512
+    },
+    {
+      "wavelength": 1679.6238244514107,
+      "reflectance": 13432
+    },
+    {
+      "wavelength": 1683.6990595611285,
+      "reflectance": 13056
+    },
+    {
+      "wavelength": 1687.7742946708463,
+      "reflectance": 13440
+    },
+    {
+      "wavelength": 1691.8495297805644,
+      "reflectance": 13608
+    },
+    {
+      "wavelength": 1695.9247648902822,
+      "reflectance": 13384
+    },
+    {
+      "wavelength": 1700,
+      "reflectance": 12816
+    }
+  ]
+}

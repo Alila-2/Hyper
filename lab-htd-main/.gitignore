@@ -1,0 +1,79 @@
+# ---------------------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+sdist/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ---------------------------------------------------------------------------
+# Build artifacts (CUDA / C++ extensions: selective_scan_cuda, causal_conv1d)
+# These are only produced on Linux + CUDA via `pip install .` and must never be
+# committed. On Windows they are not built at all (pure-PyTorch fallback is used).
+# ---------------------------------------------------------------------------
+build/
+dist/
+*.o
+*.obj
+*.dll
+*.dylib
+*.pyd
+selective_scan_cuda*
+mamba_ssm.egg-info/
+
+# ---------------------------------------------------------------------------
+# Virtual environments
+# ---------------------------------------------------------------------------
+.venv/
+venv/
+env/
+ENV/
+.conda/
+
+# ---------------------------------------------------------------------------
+# IDE / editor
+# ---------------------------------------------------------------------------
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ---------------------------------------------------------------------------
+# OS files
+# ---------------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+
+# ---------------------------------------------------------------------------
+# Jupyter
+# ---------------------------------------------------------------------------
+.ipynb_checkpoints/
+
+# ---------------------------------------------------------------------------
+# Project outputs
+# ---------------------------------------------------------------------------
+# Training checkpoints / loss curves and evaluation outputs are local artifacts.
+# Keep any already-tracked sample weights, but do not add newly generated runs.
+models/**
+results/**
+logs/**
+
+# Large local datasets are not source code. Already-tracked sample datasets stay
+# tracked by git, while newly added .mat files remain local.
+*.mat
+*.zip
+
+# Figures are generated artifacts except for checked-in documentation assets.
+*.png
+!assets/*.png

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <!-- <title>高光谱智能化成像与融合探测软件</title> -->
+    <title>多模融合探测与跟踪模拟软件</title>
+    <!-- 删除或注释掉仅在Electron开发环境中使用的代码块 -->
+    <!-- <% if (htmlWebpackPlugin.options.nodeModules) { %>
+      <script>
+        require('module').globalPaths.push('<%= htmlWebpackPlugin.options.nodeModules.replace(/\\/g, '\\\\') %>')
+      </script>
+    <% } %> -->
+  </head>
+  <body>
+    <div id="app"></div>
+    <!-- 修改静态资源路径，使其在Web环境中也能正常工作 -->
+    <script>
+      // 为Web环境设置静态资源路径
+      window.__static = process.env.BASE_URL + 'static'
+    </script>
+
+    <!-- webpack builds are automatically injected -->
+  </body>
+</html>

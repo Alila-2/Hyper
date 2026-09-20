@@ -1,0 +1,2785 @@
+[
+  {
+    "id": "mat-001",
+    "name": "材料一",
+    "code": "MAT-001",
+    "brief": "模仿树叶和树皮纹理的低光泽涂层样本，高可见光适配性",
+    "description": "轻量化合成纤维，经表面微结构处理以降低红外可检测性，在可见光呈现砂色渐变反射特性，适配干旱、沙地背景。",
+    "applications": "沙漠伪装网、作战服、侦察遮蔽物",
+    "wavelengthRange": "400-2500 nm",
+    "conditions": "标准光源 D65，入射角 45°，室温 22°C",
+    "date": "2025-03-12T10:15:00Z",
+    "thumbnail": "/static/spectrum-thumbnails/材料一.png",
+    "spectrumData": [
+      {
+        "wavelength": 390.102389078498,
+        "reflectance": 0.0717874952052168
+      },
+      {
+        "wavelength": 394.349639742131,
+        "reflectance": 0.0549688707916556
+      },
+      {
+        "wavelength": 398.900265453167,
+        "reflectance": 0.0423726062966569
+      },
+      {
+        "wavelength": 403.450891164202,
+        "reflectance": 0.0334407856559755
+      },
+      {
+        "wavelength": 408.001516875237,
+        "reflectance": 0.0276154928053662
+      },
+      {
+        "wavelength": 412.552142586272,
+        "reflectance": 0.0243388116805839
+      },
+      {
+        "wavelength": 421.35001896094,
+        "reflectance": 0.0230887256203712
+      },
+      {
+        "wavelength": 425.900644671976,
+        "reflectance": 0.0224538471373915
+      },
+      {
+        "wavelength": 430.451270383011,
+        "reflectance": 0.0233896904782981
+      },
+      {
+        "wavelength": 435.001896094046,
+        "reflectance": 0.0251118782764353
+      },
+      {
+        "wavelength": 439.552521805081,
+        "reflectance": 0.0258878955081487
+      },
+      {
+        "wavelength": 448.35039817975,
+        "reflectance": 0.0263924542405556
+      },
+      {
+        "wavelength": 452.901023890785,
+        "reflectance": 0.0274251767922655
+      },
+      {
+        "wavelength": 457.45164960182,
+        "reflectance": 0.0293504666922389
+      },
+      {
+        "wavelength": 462.002275312855,
+        "reflectance": 0.0335447955701121
+      },
+      {
+        "wavelength": 466.552901023891,
+        "reflectance": 0.0374799602647705
+      },
+      {
+        "wavelength": 471.103526734926,
+        "reflectance": 0.0423121182614854
+      },
+      {
+        "wavelength": 475.350777398559,
+        "reflectance": 0.0491659535963335
+      },
+      {
+        "wavelength": 479.901403109594,
+        "reflectance": 0.0572743009451871
+      },
+      {
+        "wavelength": 484.452028820629,
+        "reflectance": 0.0669445182103411
+      },
+      {
+        "wavelength": 489.002654531665,
+        "reflectance": 0.0789683593481064
+      },
+      {
+        "wavelength": 493.5532802427,
+        "reflectance": 0.088910035112567
+      },
+      {
+        "wavelength": 498.103905953735,
+        "reflectance": 0.102202649671004
+      },
+      {
+        "wavelength": 502.351156617368,
+        "reflectance": 0.116911077670572
+      },
+      {
+        "wavelength": 506.901782328403,
+        "reflectance": 0.133640691235628
+      },
+      {
+        "wavelength": 511.452408039439,
+        "reflectance": 0.148766634209673
+      },
+      {
+        "wavelength": 516.003033750474,
+        "reflectance": 0.162912966077523
+      },
+      {
+        "wavelength": 520.553659461509,
+        "reflectance": 0.173891790347487
+      },
+      {
+        "wavelength": 525.104285172545,
+        "reflectance": 0.182219468295418
+      },
+      {
+        "wavelength": 529.351535836178,
+        "reflectance": 0.184415724922054
+      },
+      {
+        "wavelength": 533.902161547213,
+        "reflectance": 0.182739271979779
+      },
+      {
+        "wavelength": 538.452787258248,
+        "reflectance": 0.173658198341743
+      },
+      {
+        "wavelength": 543.003412969283,
+        "reflectance": 0.161989417052709
+      },
+      {
+        "wavelength": 547.554038680319,
+        "reflectance": 0.146655454250391
+      },
+      {
+        "wavelength": 552.104664391354,
+        "reflectance": 0.130732347820956
+      },
+      {
+        "wavelength": 556.351915054987,
+        "reflectance": 0.114417298594514
+      },
+      {
+        "wavelength": 560.902540766022,
+        "reflectance": 0.0986790986790989
+      },
+      {
+        "wavelength": 565.453166477057,
+        "reflectance": 0.0831562951816118
+      },
+      {
+        "wavelength": 570.003792188093,
+        "reflectance": 0.0703997128047762
+      },
+      {
+        "wavelength": 574.554417899128,
+        "reflectance": 0.0578742635704662
+      },
+      {
+        "wavelength": 579.105043610163,
+        "reflectance": 0.0481514266324394
+      },
+      {
+        "wavelength": 583.352294273796,
+        "reflectance": 0.0395281933256618
+      },
+      {
+        "wavelength": 587.902919984831,
+        "reflectance": 0.0313460800802574
+      },
+      {
+        "wavelength": 592.453545695867,
+        "reflectance": 0.0242193109281717
+      },
+      {
+        "wavelength": 601.554797117937,
+        "reflectance": 0.019099465934909
+      },
+      {
+        "wavelength": 606.105422828972,
+        "reflectance": 0.0156324687970258
+      },
+      {
+        "wavelength": 614.90329920364,
+        "reflectance": 0.0139378202669342
+      },
+      {
+        "wavelength": 619.453924914676,
+        "reflectance": 0.0125667581363784
+      },
+      {
+        "wavelength": 624.004550625711,
+        "reflectance": 0.0121162943947754
+      },
+      {
+        "wavelength": 628.555176336746,
+        "reflectance": 0.0122205501952338
+      },
+      {
+        "wavelength": 633.105802047781,
+        "reflectance": 0.0120769525832817
+      },
+      {
+        "wavelength": 637.353052711414,
+        "reflectance": 0.0120203987292595
+      },
+      {
+        "wavelength": 646.454304133485,
+        "reflectance": 0.0116392749304142
+      },
+      {
+        "wavelength": 651.00492984452,
+        "reflectance": 0.0115310849488065
+      },
+      {
+        "wavelength": 655.555555555556,
+        "reflectance": 0.0114720722315659
+      },
+      {
+        "wavelength": 660.106181266591,
+        "reflectance": 0.0115197741780021
+      },
+      {
+        "wavelength": 664.353431930224,
+        "reflectance": 0.0119682708290303
+      },
+      {
+        "wavelength": 668.904057641259,
+        "reflectance": 0.0122382540104059
+      },
+      {
+        "wavelength": 673.454683352294,
+        "reflectance": 0.012941488890856
+      },
+      {
+        "wavelength": 678.005309063329,
+        "reflectance": 0.0140002753926805
+      },
+      {
+        "wavelength": 682.555934774365,
+        "reflectance": 0.0155867339411643
+      },
+      {
+        "wavelength": 691.353811149033,
+        "reflectance": 0.0172263039351647
+      },
+      {
+        "wavelength": 695.904436860068,
+        "reflectance": 0.0184877007661818
+      },
+      {
+        "wavelength": 705.005688282139,
+        "reflectance": 0.0199590845160466
+      },
+      {
+        "wavelength": 709.556313993174,
+        "reflectance": 0.0213655542769467
+      },
+      {
+        "wavelength": 718.354190367842,
+        "reflectance": 0.0218007730665959
+      },
+      {
+        "wavelength": 722.904816078878,
+        "reflectance": 0.0215839013307368
+      },
+      {
+        "wavelength": 727.455441789913,
+        "reflectance": 0.0210532786482154
+      },
+      {
+        "wavelength": 732.006067500948,
+        "reflectance": 0.0209873811139634
+      },
+      {
+        "wavelength": 736.556693211983,
+        "reflectance": 0.022753828450031
+      },
+      {
+        "wavelength": 741.107318923019,
+        "reflectance": 0.0242055412941489
+      },
+      {
+        "wavelength": 745.354569586651,
+        "reflectance": 0.0270150384074435
+      },
+      {
+        "wavelength": 749.905195297687,
+        "reflectance": 0.0300404237113099
+      },
+      {
+        "wavelength": 754.455821008722,
+        "reflectance": 0.0335251246643652
+      },
+      {
+        "wavelength": 763.557072430793,
+        "reflectance": 0.0365652631475417
+      },
+      {
+        "wavelength": 768.107698141828,
+        "reflectance": 0.0384251472859069
+      },
+      {
+        "wavelength": 772.354948805461,
+        "reflectance": 0.0398463702261172
+      },
+      {
+        "wavelength": 776.905574516496,
+        "reflectance": 0.0412680849389711
+      },
+      {
+        "wavelength": 781.456200227531,
+        "reflectance": 0.0443637937308824
+      },
+      {
+        "wavelength": 786.006825938567,
+        "reflectance": 0.0490464528439213
+      },
+      {
+        "wavelength": 790.557451649602,
+        "reflectance": 0.0547554414643023
+      },
+      {
+        "wavelength": 799.35532802427,
+        "reflectance": 0.0629473901625802
+      },
+      {
+        "wavelength": 803.905953735305,
+        "reflectance": 0.0702502139211001
+      },
+      {
+        "wavelength": 808.456579446341,
+        "reflectance": 0.0790254049747722
+      },
+      {
+        "wavelength": 813.007205157376,
+        "reflectance": 0.0875448742537352
+      },
+      {
+        "wavelength": 817.557830868411,
+        "reflectance": 0.0983510863257701
+      },
+      {
+        "wavelength": 822.108456579446,
+        "reflectance": 0.109763654067452
+      },
+      {
+        "wavelength": 826.355707243079,
+        "reflectance": 0.120377583035811
+      },
+      {
+        "wavelength": 830.906332954115,
+        "reflectance": 0.13393968900298
+      },
+      {
+        "wavelength": 835.45695866515,
+        "reflectance": 0.149282503712884
+      },
+      {
+        "wavelength": 840.007584376185,
+        "reflectance": 0.164596795609454
+      },
+      {
+        "wavelength": 844.55821008722,
+        "reflectance": 0.179518652936375
+      },
+      {
+        "wavelength": 849.108835798256,
+        "reflectance": 0.191786413305401
+      },
+      {
+        "wavelength": 853.356086461889,
+        "reflectance": 0.203266845671909
+      },
+      {
+        "wavelength": 857.906712172924,
+        "reflectance": 0.214514669577961
+      },
+      {
+        "wavelength": 862.457337883959,
+        "reflectance": 0.225860848012747
+      },
+      {
+        "wavelength": 867.007963594994,
+        "reflectance": 0.23403066694206
+      },
+      {
+        "wavelength": 871.55858930603,
+        "reflectance": 0.239527209780375
+      },
+      {
+        "wavelength": 876.109215017065,
+        "reflectance": 0.245439792275236
+      },
+      {
+        "wavelength": 880.356465680698,
+        "reflectance": 0.250681105111485
+      },
+      {
+        "wavelength": 884.907091391733,
+        "reflectance": 0.251798412557907
+      },
+      {
+        "wavelength": 889.457717102768,
+        "reflectance": 0.251340572226649
+      },
+      {
+        "wavelength": 894.008342813804,
+        "reflectance": 0.248657460682778
+      },
+      {
+        "wavelength": 898.558968524839,
+        "reflectance": 0.244168068218702
+      },
+      {
+        "wavelength": 903.109594235874,
+        "reflectance": 0.245563227208797
+      },
+      {
+        "wavelength": 907.356844899507,
+        "reflectance": 0.245958120641666
+      },
+      {
+        "wavelength": 911.907470610542,
+        "reflectance": 0.244769997934555
+      },
+      {
+        "wavelength": 916.458096321578,
+        "reflectance": 0.245572079116384
+      },
+      {
+        "wavelength": 921.008722032613,
+        "reflectance": 0.248535992839791
+      },
+      {
+        "wavelength": 925.559347743648,
+        "reflectance": 0.255064766457172
+      },
+      {
+        "wavelength": 930.109973454683,
+        "reflectance": 0.246144994246261
+      },
+      {
+        "wavelength": 934.357224118316,
+        "reflectance": 0.240681891947715
+      },
+      {
+        "wavelength": 938.907849829352,
+        "reflectance": 0.235965792294907
+      },
+      {
+        "wavelength": 943.458475540387,
+        "reflectance": 0.237271940436498
+      },
+      {
+        "wavelength": 948.009101251422,
+        "reflectance": 0.237637327510746
+      },
+      {
+        "wavelength": 952.559726962457,
+        "reflectance": 0.239960953252093
+      },
+      {
+        "wavelength": 957.110352673493,
+        "reflectance": 0.239589664906121
+      },
+      {
+        "wavelength": 961.357603337126,
+        "reflectance": 0.244778849842141
+      },
+      {
+        "wavelength": 965.908229048161,
+        "reflectance": 0.2514492539809
+      },
+      {
+        "wavelength": 970.458854759196,
+        "reflectance": 0.259168117395966
+      },
+      {
+        "wavelength": 975.009480470231,
+        "reflectance": 0.25337405210823
+      },
+      {
+        "wavelength": 979.560106181267,
+        "reflectance": 0.257414947921278
+      },
+      {
+        "wavelength": 984.110731892302,
+        "reflectance": 0.260118713916183
+      },
+      {
+        "wavelength": 988.357982555935,
+        "reflectance": 0.262540202413621
+      },
+      {
+        "wavelength": 992.90860826697,
+        "reflectance": 0.248167655129681
+      },
+      {
+        "wavelength": 997.459233978005,
+        "reflectance": 0.226594572797105
+      },
+      {
+        "wavelength": 1002.00985968904,
+        "reflectance": 0.216246201056328
+      },
+      {
+        "wavelength": 1006.56048540008,
+        "reflectance": 0.201505316062278
+      },
+      {
+        "wavelength": 1011.11111111111,
+        "reflectance": 0.19112055314587
+      },
+      {
+        "wavelength": 1015.35836177474,
+        "reflectance": 0.187656998416492
+      },
+      {
+        "wavelength": 1019.90898748578,
+        "reflectance": 0.193679737983535
+      },
+      {
+        "wavelength": 1024.45961319682,
+        "reflectance": 0.21175385795639
+      }
+    ],
+
+
+    "spectrumData2": [
+      {
+        "wavelength": 392.708333333333,
+        "reflectance": 0.102762430939227
+      },
+      {
+        "wavelength": 393.75,
+        "reflectance": 0.103867403314917
+      },
+      {
+        "wavelength": 395.833333333333,
+        "reflectance": 0.104972375690608
+      },
+      {
+        "wavelength": 396.875,
+        "reflectance": 0.104972375690608
+      },
+      {
+        "wavelength": 398.958333333333,
+        "reflectance": 0.106077348066298
+      },
+      {
+        "wavelength": 402.083333333333,
+        "reflectance": 0.107182320441989
+      },
+      {
+        "wavelength": 403.125,
+        "reflectance": 0.10828729281768
+      },
+      {
+        "wavelength": 405.208333333333,
+        "reflectance": 0.10939226519337
+      },
+      {
+        "wavelength": 407.291666666667,
+        "reflectance": 0.110497237569061
+      },
+      {
+        "wavelength": 409.375,
+        "reflectance": 0.111602209944751
+      },
+      {
+        "wavelength": 411.458333333333,
+        "reflectance": 0.111602209944751
+      },
+      {
+        "wavelength": 412.5,
+        "reflectance": 0.111602209944751
+      },
+      {
+        "wavelength": 414.583333333333,
+        "reflectance": 0.110497237569061
+      },
+      {
+        "wavelength": 416.666666666667,
+        "reflectance": 0.112707182320442
+      },
+      {
+        "wavelength": 417.708333333333,
+        "reflectance": 0.113812154696133
+      },
+      {
+        "wavelength": 418.75,
+        "reflectance": 0.114917127071823
+      },
+      {
+        "wavelength": 419.791666666667,
+        "reflectance": 0.116022099447514
+      },
+      {
+        "wavelength": 420.833333333333,
+        "reflectance": 0.116022099447514
+      },
+      {
+        "wavelength": 422.916666666667,
+        "reflectance": 0.117127071823204
+      },
+      {
+        "wavelength": 425.0,
+        "reflectance": 0.119337016574586
+      },
+      {
+        "wavelength": 426.041666666667,
+        "reflectance": 0.120441988950276
+      },
+      {
+        "wavelength": 428.125,
+        "reflectance": 0.122651933701657
+      },
+      {
+        "wavelength": 430.208333333333,
+        "reflectance": 0.123756906077348
+      },
+      {
+        "wavelength": 432.291666666667,
+        "reflectance": 0.124861878453039
+      },
+      {
+        "wavelength": 433.333333333333,
+        "reflectance": 0.125966850828729
+      },
+      {
+        "wavelength": 435.416666666667,
+        "reflectance": 0.12707182320442
+      },
+      {
+        "wavelength": 436.458333333333,
+        "reflectance": 0.12817679558011
+      },
+      {
+        "wavelength": 438.541666666667,
+        "reflectance": 0.129281767955801
+      },
+      {
+        "wavelength": 439.583333333333,
+        "reflectance": 0.130386740331492
+      },
+      {
+        "wavelength": 440.625,
+        "reflectance": 0.131491712707182
+      },
+      {
+        "wavelength": 442.708333333333,
+        "reflectance": 0.132596685082873
+      },
+      {
+        "wavelength": 443.75,
+        "reflectance": 0.134806629834254
+      },
+      {
+        "wavelength": 445.833333333333,
+        "reflectance": 0.135911602209945
+      },
+      {
+        "wavelength": 447.916666666667,
+        "reflectance": 0.137016574585635
+      },
+      {
+        "wavelength": 450.0,
+        "reflectance": 0.138121546961326
+      },
+      {
+        "wavelength": 451.041666666667,
+        "reflectance": 0.139226519337017
+      },
+      {
+        "wavelength": 453.125,
+        "reflectance": 0.142541436464088
+      },
+      {
+        "wavelength": 454.166666666667,
+        "reflectance": 0.143646408839779
+      },
+      {
+        "wavelength": 457.291666666667,
+        "reflectance": 0.146961325966851
+      },
+      {
+        "wavelength": 459.375,
+        "reflectance": 0.149171270718232
+      },
+      {
+        "wavelength": 462.5,
+        "reflectance": 0.151381215469613
+      },
+      {
+        "wavelength": 464.583333333333,
+        "reflectance": 0.154696132596685
+      },
+      {
+        "wavelength": 466.666666666667,
+        "reflectance": 0.155801104972376
+      },
+      {
+        "wavelength": 467.708333333333,
+        "reflectance": 0.156906077348066
+      },
+      {
+        "wavelength": 469.791666666667,
+        "reflectance": 0.159116022099448
+      },
+      {
+        "wavelength": 471.875,
+        "reflectance": 0.160220994475138
+      },
+      {
+        "wavelength": 472.916666666667,
+        "reflectance": 0.161325966850829
+      },
+      {
+        "wavelength": 473.958333333333,
+        "reflectance": 0.162430939226519
+      },
+      {
+        "wavelength": 475.0,
+        "reflectance": 0.16353591160221
+      },
+      {
+        "wavelength": 476.041666666667,
+        "reflectance": 0.165745856353591
+      },
+      {
+        "wavelength": 477.083333333333,
+        "reflectance": 0.166850828729282
+      },
+      {
+        "wavelength": 478.125,
+        "reflectance": 0.167955801104972
+      },
+      {
+        "wavelength": 481.25,
+        "reflectance": 0.170165745856354
+      },
+      {
+        "wavelength": 482.291666666667,
+        "reflectance": 0.171270718232044
+      },
+      {
+        "wavelength": 485.416666666667,
+        "reflectance": 0.170165745856354
+      },
+      {
+        "wavelength": 488.541666666667,
+        "reflectance": 0.169060773480663
+      },
+      {
+        "wavelength": 489.583333333333,
+        "reflectance": 0.171270718232044
+      },
+      {
+        "wavelength": 489.583333333333,
+        "reflectance": 0.173480662983425
+      },
+      {
+        "wavelength": 491.666666666667,
+        "reflectance": 0.175690607734807
+      },
+      {
+        "wavelength": 491.666666666667,
+        "reflectance": 0.176795580110497
+      },
+      {
+        "wavelength": 493.75,
+        "reflectance": 0.177900552486188
+      },
+      {
+        "wavelength": 494.791666666667,
+        "reflectance": 0.179005524861878
+      },
+      {
+        "wavelength": 495.833333333333,
+        "reflectance": 0.180110497237569
+      },
+      {
+        "wavelength": 497.916666666667,
+        "reflectance": 0.18121546961326
+      },
+      {
+        "wavelength": 498.958333333333,
+        "reflectance": 0.18232044198895
+      },
+      {
+        "wavelength": 500.0,
+        "reflectance": 0.184530386740332
+      },
+      {
+        "wavelength": 502.083333333333,
+        "reflectance": 0.185635359116022
+      },
+      {
+        "wavelength": 503.125,
+        "reflectance": 0.186740331491713
+      },
+      {
+        "wavelength": 505.208333333333,
+        "reflectance": 0.187845303867403
+      },
+      {
+        "wavelength": 507.291666666667,
+        "reflectance": 0.188950276243094
+      },
+      {
+        "wavelength": 509.375,
+        "reflectance": 0.190055248618785
+      },
+      {
+        "wavelength": 510.416666666667,
+        "reflectance": 0.191160220994475
+      },
+      {
+        "wavelength": 513.541666666667,
+        "reflectance": 0.193370165745856
+      },
+      {
+        "wavelength": 515.625,
+        "reflectance": 0.194475138121547
+      },
+      {
+        "wavelength": 517.708333333333,
+        "reflectance": 0.196685082872928
+      },
+      {
+        "wavelength": 519.791666666667,
+        "reflectance": 0.198895027624309
+      },
+      {
+        "wavelength": 520.833333333333,
+        "reflectance": 0.2
+      },
+      {
+        "wavelength": 522.916666666667,
+        "reflectance": 0.2
+      },
+      {
+        "wavelength": 523.958333333333,
+        "reflectance": 0.198895027624309
+      },
+      {
+        "wavelength": 525.0,
+        "reflectance": 0.198895027624309
+      },
+      {
+        "wavelength": 526.041666666667,
+        "reflectance": 0.198895027624309
+      },
+      {
+        "wavelength": 527.083333333333,
+        "reflectance": 0.197790055248619
+      },
+      {
+        "wavelength": 528.125,
+        "reflectance": 0.197790055248619
+      },
+      {
+        "wavelength": 528.125,
+        "reflectance": 0.198895027624309
+      },
+      {
+        "wavelength": 529.166666666667,
+        "reflectance": 0.198895027624309
+      },
+      {
+        "wavelength": 530.208333333333,
+        "reflectance": 0.201104972375691
+      },
+      {
+        "wavelength": 531.25,
+        "reflectance": 0.201104972375691
+      },
+      {
+        "wavelength": 532.291666666667,
+        "reflectance": 0.202209944751381
+      },
+      {
+        "wavelength": 533.333333333333,
+        "reflectance": 0.203314917127072
+      },
+      {
+        "wavelength": 535.416666666667,
+        "reflectance": 0.204419889502762
+      },
+      {
+        "wavelength": 536.458333333333,
+        "reflectance": 0.205524861878453
+      },
+      {
+        "wavelength": 537.5,
+        "reflectance": 0.205524861878453
+      },
+      {
+        "wavelength": 539.583333333333,
+        "reflectance": 0.206629834254144
+      },
+      {
+        "wavelength": 540.625,
+        "reflectance": 0.207734806629834
+      },
+      {
+        "wavelength": 542.708333333333,
+        "reflectance": 0.207734806629834
+      },
+      {
+        "wavelength": 543.75,
+        "reflectance": 0.208839779005525
+      },
+      {
+        "wavelength": 545.833333333333,
+        "reflectance": 0.208839779005525
+      },
+      {
+        "wavelength": 546.875,
+        "reflectance": 0.209944751381215
+      },
+      {
+        "wavelength": 548.958333333333,
+        "reflectance": 0.209944751381215
+      },
+      {
+        "wavelength": 550.0,
+        "reflectance": 0.209944751381215
+      },
+      {
+        "wavelength": 552.083333333333,
+        "reflectance": 0.209944751381215
+      },
+      {
+        "wavelength": 553.125,
+        "reflectance": 0.211049723756906
+      },
+      {
+        "wavelength": 555.208333333333,
+        "reflectance": 0.212154696132597
+      },
+      {
+        "wavelength": 556.25,
+        "reflectance": 0.212154696132597
+      },
+      {
+        "wavelength": 557.291666666667,
+        "reflectance": 0.213259668508287
+      },
+      {
+        "wavelength": 559.375,
+        "reflectance": 0.214364640883978
+      },
+      {
+        "wavelength": 561.458333333333,
+        "reflectance": 0.214364640883978
+      },
+      {
+        "wavelength": 562.5,
+        "reflectance": 0.214364640883978
+      },
+      {
+        "wavelength": 563.541666666667,
+        "reflectance": 0.213259668508287
+      },
+      {
+        "wavelength": 564.583333333333,
+        "reflectance": 0.213259668508287
+      },
+      {
+        "wavelength": 565.625,
+        "reflectance": 0.214364640883978
+      },
+      {
+        "wavelength": 566.666666666667,
+        "reflectance": 0.215469613259669
+      },
+      {
+        "wavelength": 567.708333333333,
+        "reflectance": 0.215469613259669
+      },
+      {
+        "wavelength": 568.75,
+        "reflectance": 0.216574585635359
+      },
+      {
+        "wavelength": 569.791666666667,
+        "reflectance": 0.21767955801105
+      },
+      {
+        "wavelength": 570.833333333333,
+        "reflectance": 0.21878453038674
+      },
+      {
+        "wavelength": 572.916666666667,
+        "reflectance": 0.21878453038674
+      },
+      {
+        "wavelength": 573.958333333333,
+        "reflectance": 0.21878453038674
+      },
+      {
+        "wavelength": 575.0,
+        "reflectance": 0.21767955801105
+      },
+      {
+        "wavelength": 577.083333333333,
+        "reflectance": 0.21767955801105
+      },
+      {
+        "wavelength": 579.166666666667,
+        "reflectance": 0.21878453038674
+      },
+      {
+        "wavelength": 580.208333333333,
+        "reflectance": 0.21878453038674
+      },
+      {
+        "wavelength": 582.291666666667,
+        "reflectance": 0.219889502762431
+      },
+      {
+        "wavelength": 584.375,
+        "reflectance": 0.219889502762431
+      },
+      {
+        "wavelength": 585.416666666667,
+        "reflectance": 0.21878453038674
+      },
+      {
+        "wavelength": 586.458333333333,
+        "reflectance": 0.21767955801105
+      },
+      {
+        "wavelength": 587.5,
+        "reflectance": 0.216574585635359
+      },
+      {
+        "wavelength": 588.541666666667,
+        "reflectance": 0.216574585635359
+      },
+      {
+        "wavelength": 590.625,
+        "reflectance": 0.21767955801105
+      },
+      {
+        "wavelength": 591.666666666667,
+        "reflectance": 0.219889502762431
+      },
+      {
+        "wavelength": 593.75,
+        "reflectance": 0.220994475138122
+      },
+      {
+        "wavelength": 594.791666666667,
+        "reflectance": 0.220994475138122
+      },
+      {
+        "wavelength": 595.833333333333,
+        "reflectance": 0.222099447513812
+      },
+      {
+        "wavelength": 596.875,
+        "reflectance": 0.222099447513812
+      },
+      {
+        "wavelength": 597.916666666667,
+        "reflectance": 0.223204419889503
+      },
+      {
+        "wavelength": 598.958333333333,
+        "reflectance": 0.224309392265193
+      },
+      {
+        "wavelength": 601.041666666667,
+        "reflectance": 0.224309392265193
+      },
+      {
+        "wavelength": 602.083333333333,
+        "reflectance": 0.224309392265193
+      },
+      {
+        "wavelength": 603.125,
+        "reflectance": 0.223204419889503
+      },
+      {
+        "wavelength": 605.208333333333,
+        "reflectance": 0.222099447513812
+      },
+      {
+        "wavelength": 607.291666666667,
+        "reflectance": 0.222099447513812
+      },
+      {
+        "wavelength": 609.375,
+        "reflectance": 0.222099447513812
+      },
+      {
+        "wavelength": 610.416666666667,
+        "reflectance": 0.223204419889503
+      },
+      {
+        "wavelength": 612.5,
+        "reflectance": 0.223204419889503
+      },
+      {
+        "wavelength": 613.541666666667,
+        "reflectance": 0.224309392265193
+      },
+      {
+        "wavelength": 614.583333333333,
+        "reflectance": 0.225414364640884
+      },
+      {
+        "wavelength": 616.666666666667,
+        "reflectance": 0.225414364640884
+      },
+      {
+        "wavelength": 617.708333333333,
+        "reflectance": 0.226519337016575
+      },
+      {
+        "wavelength": 619.791666666667,
+        "reflectance": 0.227624309392265
+      },
+      {
+        "wavelength": 622.916666666667,
+        "reflectance": 0.228729281767956
+      },
+      {
+        "wavelength": 623.958333333333,
+        "reflectance": 0.228729281767956
+      },
+      {
+        "wavelength": 626.041666666667,
+        "reflectance": 0.229834254143646
+      },
+      {
+        "wavelength": 628.125,
+        "reflectance": 0.229834254143646
+      },
+      {
+        "wavelength": 630.208333333333,
+        "reflectance": 0.230939226519337
+      },
+      {
+        "wavelength": 631.25,
+        "reflectance": 0.230939226519337
+      },
+      {
+        "wavelength": 633.333333333333,
+        "reflectance": 0.232044198895028
+      },
+      {
+        "wavelength": 635.416666666667,
+        "reflectance": 0.233149171270718
+      },
+      {
+        "wavelength": 637.5,
+        "reflectance": 0.233149171270718
+      },
+      {
+        "wavelength": 639.583333333333,
+        "reflectance": 0.233149171270718
+      },
+      {
+        "wavelength": 641.666666666667,
+        "reflectance": 0.232044198895028
+      },
+      {
+        "wavelength": 642.708333333333,
+        "reflectance": 0.232044198895028
+      },
+      {
+        "wavelength": 644.791666666667,
+        "reflectance": 0.232044198895028
+      },
+      {
+        "wavelength": 645.833333333333,
+        "reflectance": 0.232044198895028
+      },
+      {
+        "wavelength": 646.875,
+        "reflectance": 0.233149171270718
+      },
+      {
+        "wavelength": 647.916666666667,
+        "reflectance": 0.234254143646409
+      },
+      {
+        "wavelength": 648.958333333333,
+        "reflectance": 0.235359116022099
+      },
+      {
+        "wavelength": 651.041666666667,
+        "reflectance": 0.23646408839779
+      },
+      {
+        "wavelength": 652.083333333333,
+        "reflectance": 0.237569060773481
+      },
+      {
+        "wavelength": 653.125,
+        "reflectance": 0.237569060773481
+      },
+      {
+        "wavelength": 654.166666666667,
+        "reflectance": 0.238674033149171
+      },
+      {
+        "wavelength": 656.25,
+        "reflectance": 0.239779005524862
+      },
+      {
+        "wavelength": 657.291666666667,
+        "reflectance": 0.240883977900552
+      },
+      {
+        "wavelength": 658.333333333333,
+        "reflectance": 0.241988950276243
+      },
+      {
+        "wavelength": 659.375,
+        "reflectance": 0.241988950276243
+      },
+      {
+        "wavelength": 661.458333333333,
+        "reflectance": 0.243093922651934
+      },
+      {
+        "wavelength": 663.541666666667,
+        "reflectance": 0.243093922651934
+      },
+      {
+        "wavelength": 665.625,
+        "reflectance": 0.243093922651934
+      },
+      {
+        "wavelength": 667.708333333333,
+        "reflectance": 0.243093922651934
+      },
+      {
+        "wavelength": 669.791666666667,
+        "reflectance": 0.244198895027624
+      },
+      {
+        "wavelength": 671.875,
+        "reflectance": 0.243093922651934
+      },
+      {
+        "wavelength": 672.916666666667,
+        "reflectance": 0.243093922651934
+      },
+      {
+        "wavelength": 675.0,
+        "reflectance": 0.241988950276243
+      },
+      {
+        "wavelength": 676.041666666667,
+        "reflectance": 0.244198895027624
+      },
+      {
+        "wavelength": 676.041666666667,
+        "reflectance": 0.245303867403315
+      },
+      {
+        "wavelength": 677.083333333333,
+        "reflectance": 0.247513812154696
+      },
+      {
+        "wavelength": 678.125,
+        "reflectance": 0.248618784530387
+      },
+      {
+        "wavelength": 679.166666666667,
+        "reflectance": 0.249723756906077
+      },
+      {
+        "wavelength": 681.25,
+        "reflectance": 0.250828729281768
+      },
+      {
+        "wavelength": 682.291666666667,
+        "reflectance": 0.250828729281768
+      },
+      {
+        "wavelength": 684.375,
+        "reflectance": 0.251933701657459
+      },
+      {
+        "wavelength": 685.416666666667,
+        "reflectance": 0.251933701657459
+      },
+      {
+        "wavelength": 687.5,
+        "reflectance": 0.253038674033149
+      },
+      {
+        "wavelength": 688.541666666667,
+        "reflectance": 0.25414364640884
+      },
+      {
+        "wavelength": 689.583333333333,
+        "reflectance": 0.25524861878453
+      },
+      {
+        "wavelength": 691.666666666667,
+        "reflectance": 0.25524861878453
+      },
+      {
+        "wavelength": 692.708333333333,
+        "reflectance": 0.256353591160221
+      },
+      {
+        "wavelength": 694.791666666667,
+        "reflectance": 0.256353591160221
+      },
+      {
+        "wavelength": 696.875,
+        "reflectance": 0.257458563535912
+      },
+      {
+        "wavelength": 697.916666666667,
+        "reflectance": 0.258563535911602
+      },
+      {
+        "wavelength": 698.958333333333,
+        "reflectance": 0.259668508287293
+      },
+      {
+        "wavelength": 701.041666666667,
+        "reflectance": 0.259668508287293
+      },
+      {
+        "wavelength": 702.083333333333,
+        "reflectance": 0.260773480662983
+      },
+      {
+        "wavelength": 704.166666666667,
+        "reflectance": 0.261878453038674
+      },
+      {
+        "wavelength": 706.25,
+        "reflectance": 0.262983425414365
+      },
+      {
+        "wavelength": 709.375,
+        "reflectance": 0.264088397790055
+      },
+      {
+        "wavelength": 710.416666666667,
+        "reflectance": 0.264088397790055
+      },
+      {
+        "wavelength": 712.5,
+        "reflectance": 0.264088397790055
+      },
+      {
+        "wavelength": 713.541666666667,
+        "reflectance": 0.265193370165746
+      },
+      {
+        "wavelength": 716.666666666667,
+        "reflectance": 0.265193370165746
+      },
+      {
+        "wavelength": 717.708333333333,
+        "reflectance": 0.267403314917127
+      },
+      {
+        "wavelength": 718.75,
+        "reflectance": 0.268508287292818
+      },
+      {
+        "wavelength": 719.791666666667,
+        "reflectance": 0.269613259668508
+      },
+      {
+        "wavelength": 721.875,
+        "reflectance": 0.270718232044199
+      },
+      {
+        "wavelength": 723.958333333333,
+        "reflectance": 0.269613259668508
+      },
+      {
+        "wavelength": 726.041666666667,
+        "reflectance": 0.269613259668508
+      },
+      {
+        "wavelength": 727.083333333333,
+        "reflectance": 0.270718232044199
+      },
+      {
+        "wavelength": 728.125,
+        "reflectance": 0.27292817679558
+      },
+      {
+        "wavelength": 729.166666666667,
+        "reflectance": 0.275138121546961
+      },
+      {
+        "wavelength": 729.166666666667,
+        "reflectance": 0.276243093922652
+      },
+      {
+        "wavelength": 730.208333333333,
+        "reflectance": 0.278453038674033
+      },
+      {
+        "wavelength": 732.291666666667,
+        "reflectance": 0.276243093922652
+      },
+      {
+        "wavelength": 734.375,
+        "reflectance": 0.275138121546961
+      },
+      {
+        "wavelength": 735.416666666667,
+        "reflectance": 0.275138121546961
+      },
+      {
+        "wavelength": 737.5,
+        "reflectance": 0.275138121546961
+      },
+      {
+        "wavelength": 738.541666666667,
+        "reflectance": 0.276243093922652
+      },
+      {
+        "wavelength": 740.625,
+        "reflectance": 0.277348066298343
+      },
+      {
+        "wavelength": 741.666666666667,
+        "reflectance": 0.279558011049724
+      },
+      {
+        "wavelength": 741.666666666667,
+        "reflectance": 0.280662983425414
+      },
+      {
+        "wavelength": 742.708333333333,
+        "reflectance": 0.281767955801105
+      },
+      {
+        "wavelength": 743.75,
+        "reflectance": 0.282872928176796
+      },
+      {
+        "wavelength": 745.833333333333,
+        "reflectance": 0.282872928176796
+      },
+      {
+        "wavelength": 747.916666666667,
+        "reflectance": 0.281767955801105
+      },
+      {
+        "wavelength": 748.958333333333,
+        "reflectance": 0.281767955801105
+      },
+      {
+        "wavelength": 751.041666666667,
+        "reflectance": 0.282872928176796
+      },
+      {
+        "wavelength": 752.083333333333,
+        "reflectance": 0.282872928176796
+      },
+      {
+        "wavelength": 753.125,
+        "reflectance": 0.283977900552486
+      },
+      {
+        "wavelength": 754.166666666667,
+        "reflectance": 0.286187845303867
+      },
+      {
+        "wavelength": 754.166666666667,
+        "reflectance": 0.287292817679558
+      },
+      {
+        "wavelength": 755.208333333333,
+        "reflectance": 0.289502762430939
+      },
+      {
+        "wavelength": 756.25,
+        "reflectance": 0.29060773480663
+      },
+      {
+        "wavelength": 758.333333333333,
+        "reflectance": 0.288397790055249
+      },
+      {
+        "wavelength": 759.375,
+        "reflectance": 0.287292817679558
+      },
+      {
+        "wavelength": 761.458333333333,
+        "reflectance": 0.286187845303867
+      },
+      {
+        "wavelength": 762.5,
+        "reflectance": 0.283977900552486
+      },
+      {
+        "wavelength": 764.583333333333,
+        "reflectance": 0.283977900552486
+      },
+      {
+        "wavelength": 765.625,
+        "reflectance": 0.285082872928177
+      },
+      {
+        "wavelength": 765.625,
+        "reflectance": 0.287292817679558
+      },
+      {
+        "wavelength": 766.666666666667,
+        "reflectance": 0.288397790055249
+      },
+      {
+        "wavelength": 768.75,
+        "reflectance": 0.289502762430939
+      },
+      {
+        "wavelength": 770.833333333333,
+        "reflectance": 0.29060773480663
+      },
+      {
+        "wavelength": 773.958333333333,
+        "reflectance": 0.292817679558011
+      },
+      {
+        "wavelength": 775.0,
+        "reflectance": 0.293922651933702
+      },
+      {
+        "wavelength": 777.083333333333,
+        "reflectance": 0.296132596685083
+      },
+      {
+        "wavelength": 779.166666666667,
+        "reflectance": 0.297237569060774
+      },
+      {
+        "wavelength": 780.208333333333,
+        "reflectance": 0.298342541436464
+      },
+      {
+        "wavelength": 781.25,
+        "reflectance": 0.299447513812155
+      },
+      {
+        "wavelength": 782.291666666667,
+        "reflectance": 0.300552486187845
+      },
+      {
+        "wavelength": 784.375,
+        "reflectance": 0.301657458563536
+      },
+      {
+        "wavelength": 787.5,
+        "reflectance": 0.301657458563536
+      },
+      {
+        "wavelength": 790.625,
+        "reflectance": 0.300552486187845
+      },
+      {
+        "wavelength": 792.708333333333,
+        "reflectance": 0.301657458563536
+      },
+      {
+        "wavelength": 794.791666666667,
+        "reflectance": 0.302762430939227
+      },
+      {
+        "wavelength": 796.875,
+        "reflectance": 0.302762430939227
+      },
+      {
+        "wavelength": 798.958333333333,
+        "reflectance": 0.304972375690608
+      },
+      {
+        "wavelength": 800.0,
+        "reflectance": 0.306077348066298
+      },
+      {
+        "wavelength": 801.041666666667,
+        "reflectance": 0.30828729281768
+      },
+      {
+        "wavelength": 801.041666666667,
+        "reflectance": 0.30939226519337
+      },
+      {
+        "wavelength": 802.083333333333,
+        "reflectance": 0.311602209944751
+      },
+      {
+        "wavelength": 803.125,
+        "reflectance": 0.311602209944751
+      },
+      {
+        "wavelength": 804.166666666667,
+        "reflectance": 0.312707182320442
+      },
+      {
+        "wavelength": 805.208333333333,
+        "reflectance": 0.312707182320442
+      },
+      {
+        "wavelength": 807.291666666667,
+        "reflectance": 0.311602209944751
+      },
+      {
+        "wavelength": 807.291666666667,
+        "reflectance": 0.310497237569061
+      },
+      {
+        "wavelength": 809.375,
+        "reflectance": 0.30939226519337
+      },
+      {
+        "wavelength": 810.416666666667,
+        "reflectance": 0.307182320441989
+      },
+      {
+        "wavelength": 812.5,
+        "reflectance": 0.307182320441989
+      },
+      {
+        "wavelength": 812.5,
+        "reflectance": 0.30828729281768
+      },
+      {
+        "wavelength": 812.5,
+        "reflectance": 0.310497237569061
+      },
+      {
+        "wavelength": 813.541666666667,
+        "reflectance": 0.311602209944751
+      },
+      {
+        "wavelength": 813.541666666667,
+        "reflectance": 0.313812154696133
+      },
+      {
+        "wavelength": 814.583333333333,
+        "reflectance": 0.313812154696133
+      },
+      {
+        "wavelength": 815.625,
+        "reflectance": 0.316022099447514
+      },
+      {
+        "wavelength": 817.708333333333,
+        "reflectance": 0.317127071823204
+      },
+      {
+        "wavelength": 818.75,
+        "reflectance": 0.318232044198895
+      },
+      {
+        "wavelength": 820.833333333333,
+        "reflectance": 0.318232044198895
+      },
+      {
+        "wavelength": 821.875,
+        "reflectance": 0.318232044198895
+      },
+      {
+        "wavelength": 825.0,
+        "reflectance": 0.319337016574586
+      },
+      {
+        "wavelength": 826.041666666667,
+        "reflectance": 0.320441988950276
+      },
+      {
+        "wavelength": 827.083333333333,
+        "reflectance": 0.322651933701658
+      },
+      {
+        "wavelength": 829.166666666667,
+        "reflectance": 0.321546961325967
+      },
+      {
+        "wavelength": 830.208333333333,
+        "reflectance": 0.320441988950276
+      },
+      {
+        "wavelength": 832.291666666667,
+        "reflectance": 0.318232044198895
+      },
+      {
+        "wavelength": 833.333333333333,
+        "reflectance": 0.319337016574586
+      },
+      {
+        "wavelength": 834.375,
+        "reflectance": 0.320441988950276
+      },
+      {
+        "wavelength": 836.458333333333,
+        "reflectance": 0.322651933701658
+      },
+      {
+        "wavelength": 837.5,
+        "reflectance": 0.324861878453039
+      },
+      {
+        "wavelength": 838.541666666667,
+        "reflectance": 0.32707182320442
+      },
+      {
+        "wavelength": 839.583333333333,
+        "reflectance": 0.329281767955801
+      },
+      {
+        "wavelength": 840.625,
+        "reflectance": 0.331491712707182
+      },
+      {
+        "wavelength": 841.666666666667,
+        "reflectance": 0.331491712707182
+      },
+      {
+        "wavelength": 842.708333333333,
+        "reflectance": 0.329281767955801
+      },
+      {
+        "wavelength": 843.75,
+        "reflectance": 0.32707182320442
+      },
+      {
+        "wavelength": 845.833333333333,
+        "reflectance": 0.324861878453039
+      },
+      {
+        "wavelength": 846.875,
+        "reflectance": 0.322651933701658
+      },
+      {
+        "wavelength": 848.958333333333,
+        "reflectance": 0.320441988950276
+      },
+      {
+        "wavelength": 850.0,
+        "reflectance": 0.319337016574586
+      },
+      {
+        "wavelength": 851.041666666667,
+        "reflectance": 0.321546961325967
+      },
+      {
+        "wavelength": 851.041666666667,
+        "reflectance": 0.323756906077348
+      },
+      {
+        "wavelength": 853.125,
+        "reflectance": 0.32817679558011
+      },
+      {
+        "wavelength": 854.166666666667,
+        "reflectance": 0.330386740331492
+      },
+      {
+        "wavelength": 856.25,
+        "reflectance": 0.331491712707182
+      },
+      {
+        "wavelength": 857.291666666667,
+        "reflectance": 0.332596685082873
+      },
+      {
+        "wavelength": 859.375,
+        "reflectance": 0.332596685082873
+      },
+      {
+        "wavelength": 860.416666666667,
+        "reflectance": 0.333701657458564
+      },
+      {
+        "wavelength": 862.5,
+        "reflectance": 0.334806629834254
+      },
+      {
+        "wavelength": 864.583333333333,
+        "reflectance": 0.335911602209945
+      },
+      {
+        "wavelength": 865.625,
+        "reflectance": 0.338121546961326
+      },
+      {
+        "wavelength": 867.708333333333,
+        "reflectance": 0.338121546961326
+      },
+      {
+        "wavelength": 869.791666666667,
+        "reflectance": 0.335911602209945
+      },
+      {
+        "wavelength": 871.875,
+        "reflectance": 0.334806629834254
+      },
+      {
+        "wavelength": 873.958333333333,
+        "reflectance": 0.332596685082873
+      },
+      {
+        "wavelength": 875.0,
+        "reflectance": 0.330386740331492
+      },
+      {
+        "wavelength": 876.041666666667,
+        "reflectance": 0.331491712707182
+      },
+      {
+        "wavelength": 877.083333333333,
+        "reflectance": 0.332596685082873
+      },
+      {
+        "wavelength": 878.125,
+        "reflectance": 0.333701657458564
+      },
+      {
+        "wavelength": 879.166666666667,
+        "reflectance": 0.334806629834254
+      },
+      {
+        "wavelength": 880.208333333333,
+        "reflectance": 0.335911602209945
+      },
+      {
+        "wavelength": 881.25,
+        "reflectance": 0.338121546961326
+      },
+      {
+        "wavelength": 882.291666666667,
+        "reflectance": 0.339226519337017
+      },
+      {
+        "wavelength": 883.333333333333,
+        "reflectance": 0.341436464088398
+      },
+      {
+        "wavelength": 884.375,
+        "reflectance": 0.342541436464088
+      },
+      {
+        "wavelength": 886.458333333333,
+        "reflectance": 0.343646408839779
+      },
+      {
+        "wavelength": 888.541666666667,
+        "reflectance": 0.342541436464088
+      },
+      {
+        "wavelength": 890.625,
+        "reflectance": 0.340331491712707
+      },
+      {
+        "wavelength": 891.666666666667,
+        "reflectance": 0.338121546961326
+      },
+      {
+        "wavelength": 892.708333333333,
+        "reflectance": 0.335911602209945
+      },
+      {
+        "wavelength": 893.75,
+        "reflectance": 0.338121546961326
+      },
+      {
+        "wavelength": 894.791666666667,
+        "reflectance": 0.339226519337017
+      },
+      {
+        "wavelength": 896.875,
+        "reflectance": 0.341436464088398
+      },
+      {
+        "wavelength": 897.916666666667,
+        "reflectance": 0.343646408839779
+      },
+      {
+        "wavelength": 898.958333333333,
+        "reflectance": 0.343646408839779
+      },
+      {
+        "wavelength": 900.0,
+        "reflectance": 0.34475138121547
+      },
+      {
+        "wavelength": 901.041666666667,
+        "reflectance": 0.346961325966851
+      },
+      {
+        "wavelength": 903.125,
+        "reflectance": 0.348066298342541
+      },
+      {
+        "wavelength": 905.208333333333,
+        "reflectance": 0.349171270718232
+      },
+      {
+        "wavelength": 907.291666666667,
+        "reflectance": 0.349171270718232
+      },
+      {
+        "wavelength": 910.416666666667,
+        "reflectance": 0.348066298342541
+      },
+      {
+        "wavelength": 912.5,
+        "reflectance": 0.34585635359116
+      },
+      {
+        "wavelength": 914.583333333333,
+        "reflectance": 0.342541436464088
+      },
+      {
+        "wavelength": 915.625,
+        "reflectance": 0.34585635359116
+      },
+      {
+        "wavelength": 918.75,
+        "reflectance": 0.34585635359116
+      },
+      {
+        "wavelength": 920.833333333333,
+        "reflectance": 0.348066298342541
+      },
+      {
+        "wavelength": 923.958333333333,
+        "reflectance": 0.346961325966851
+      },
+      {
+        "wavelength": 926.041666666667,
+        "reflectance": 0.343646408839779
+      },
+      {
+        "wavelength": 927.083333333333,
+        "reflectance": 0.341436464088398
+      },
+      {
+        "wavelength": 928.125,
+        "reflectance": 0.343646408839779
+      },
+      {
+        "wavelength": 928.125,
+        "reflectance": 0.34585635359116
+      },
+      {
+        "wavelength": 930.208333333333,
+        "reflectance": 0.349171270718232
+      },
+      {
+        "wavelength": 931.25,
+        "reflectance": 0.350276243093923
+      },
+      {
+        "wavelength": 933.333333333333,
+        "reflectance": 0.352486187845304
+      },
+      {
+        "wavelength": 935.416666666667,
+        "reflectance": 0.353591160220994
+      },
+      {
+        "wavelength": 937.5,
+        "reflectance": 0.355801104972376
+      },
+      {
+        "wavelength": 938.541666666667,
+        "reflectance": 0.359116022099448
+      },
+      {
+        "wavelength": 939.583333333333,
+        "reflectance": 0.360220994475138
+      },
+      {
+        "wavelength": 943.75,
+        "reflectance": 0.354696132596685
+      },
+      {
+        "wavelength": 944.791666666667,
+        "reflectance": 0.352486187845304
+      },
+      {
+        "wavelength": 945.833333333333,
+        "reflectance": 0.350276243093923
+      },
+      {
+        "wavelength": 946.875,
+        "reflectance": 0.348066298342541
+      },
+      {
+        "wavelength": 950.0,
+        "reflectance": 0.34585635359116
+      },
+      {
+        "wavelength": 952.083333333333,
+        "reflectance": 0.343646408839779
+      },
+      {
+        "wavelength": 952.083333333333,
+        "reflectance": 0.341436464088398
+      },
+      {
+        "wavelength": 953.125,
+        "reflectance": 0.34475138121547
+      },
+      {
+        "wavelength": 954.166666666667,
+        "reflectance": 0.349171270718232
+      },
+      {
+        "wavelength": 955.208333333333,
+        "reflectance": 0.353591160220994
+      },
+      {
+        "wavelength": 955.208333333333,
+        "reflectance": 0.356906077348066
+      },
+      {
+        "wavelength": 957.291666666667,
+        "reflectance": 0.356906077348066
+      },
+      {
+        "wavelength": 958.333333333333,
+        "reflectance": 0.352486187845304
+      },
+      {
+        "wavelength": 960.416666666667,
+        "reflectance": 0.349171270718232
+      },
+      {
+        "wavelength": 961.458333333333,
+        "reflectance": 0.346961325966851
+      },
+      {
+        "wavelength": 962.5,
+        "reflectance": 0.34585635359116
+      },
+      {
+        "wavelength": 962.5,
+        "reflectance": 0.350276243093923
+      },
+      {
+        "wavelength": 962.5,
+        "reflectance": 0.353591160220994
+      },
+      {
+        "wavelength": 962.5,
+        "reflectance": 0.356906077348066
+      },
+      {
+        "wavelength": 963.541666666667,
+        "reflectance": 0.361325966850829
+      },
+      {
+        "wavelength": 964.583333333333,
+        "reflectance": 0.365745856353591
+      },
+      {
+        "wavelength": 966.666666666667,
+        "reflectance": 0.364640883977901
+      },
+      {
+        "wavelength": 966.666666666667,
+        "reflectance": 0.361325966850829
+      },
+      {
+        "wavelength": 967.708333333333,
+        "reflectance": 0.358011049723757
+      },
+      {
+        "wavelength": 969.791666666667,
+        "reflectance": 0.354696132596685
+      },
+      {
+        "wavelength": 971.875,
+        "reflectance": 0.352486187845304
+      },
+      {
+        "wavelength": 973.958333333333,
+        "reflectance": 0.350276243093923
+      },
+      {
+        "wavelength": 977.083333333333,
+        "reflectance": 0.348066298342541
+      },
+      {
+        "wavelength": 979.166666666667,
+        "reflectance": 0.346961325966851
+      },
+      {
+        "wavelength": 980.208333333333,
+        "reflectance": 0.349171270718232
+      },
+      {
+        "wavelength": 981.25,
+        "reflectance": 0.351381215469613
+      },
+      {
+        "wavelength": 982.291666666667,
+        "reflectance": 0.353591160220994
+      },
+      {
+        "wavelength": 983.333333333333,
+        "reflectance": 0.355801104972376
+      },
+      {
+        "wavelength": 985.416666666667,
+        "reflectance": 0.356906077348066
+      },
+      {
+        "wavelength": 987.5,
+        "reflectance": 0.355801104972376
+      },
+      {
+        "wavelength": 989.583333333333,
+        "reflectance": 0.354696132596685
+      },
+      {
+        "wavelength": 990.625,
+        "reflectance": 0.353591160220994
+      },
+      {
+        "wavelength": 991.666666666667,
+        "reflectance": 0.353591160220994
+      },
+      {
+        "wavelength": 994.791666666667,
+        "reflectance": 0.353591160220994
+      },
+      {
+        "wavelength": 997.916666666667,
+        "reflectance": 0.353591160220994
+      }
+    ]
+  },
+  {
+    "id": "mat-002",
+    "name": "材料二",
+    "code": "MAT-002",
+    "brief": "模仿树叶和树皮纹理的低光泽涂层样本，高可见光适配性",
+    "description": "该涂层通过多层纳米粒径分布实现散射调制，使其在可见光范围内具有细微吸收谷与峰，近红外波段维持中高反射以匹配树叶背景。",
+    "applications": "车辆伪装、固定遮蔽、环境仿真",
+    "wavelengthRange": "400-2500 nm",
+    "conditions": "D65光源，偏振未约束，室温 20°C",
+    "date": "2024-11-05T08:30:00Z",
+    "thumbnail": "/static/spectrum-thumbnails/材料二.png",
+    "spectrumData": [
+      { "wavelength": 400, "reflectance": 15.3 },
+      { "wavelength": 450, "reflectance": 16.1 },
+      { "wavelength": 500, "reflectance": 18.9 },
+      { "wavelength": 550, "reflectance": 22.5 },
+      { "wavelength": 600, "reflectance": 26.7 },
+      { "wavelength": 650, "reflectance": 30.2 },
+      { "wavelength": 700, "reflectance": 34.0 },
+      { "wavelength": 750, "reflectance": 36.8 },
+      { "wavelength": 800, "reflectance": 39.0 },
+      { "wavelength": 850, "reflectance": 41.1 },
+      { "wavelength": 900, "reflectance": 42.5 },
+      { "wavelength": 950, "reflectance": 43.0 },
+      { "wavelength": 1000, "reflectance": 43.8 },
+      { "wavelength": 1050, "reflectance": 43.4 },
+      { "wavelength": 1100, "reflectance": 42.0 },
+      { "wavelength": 1150, "reflectance": 40.1 },
+      { "wavelength": 1200, "reflectance": 38.0 },
+      { "wavelength": 1250, "reflectance": 36.5 },
+      { "wavelength": 1300, "reflectance": 33.8 },
+      { "wavelength": 1350, "reflectance": 30.0 },
+      { "wavelength": 1400, "reflectance": 24.0 },
+      { "wavelength": 1450, "reflectance": 20.6 },
+      { "wavelength": 1500, "reflectance": 22.0 },
+      { "wavelength": 1550, "reflectance": 23.7 },
+      { "wavelength": 1600, "reflectance": 25.4 },
+      { "wavelength": 1650, "reflectance": 27.0 },
+      { "wavelength": 1700, "reflectance": 28.1 },
+      { "wavelength": 1750, "reflectance": 27.5 },
+      { "wavelength": 1800, "reflectance": 26.0 },
+      { "wavelength": 1850, "reflectance": 24.4 },
+      { "wavelength": 1900, "reflectance": 21.8 },
+      { "wavelength": 1950, "reflectance": 20.0 },
+      { "wavelength": 2000, "reflectance": 19.2 },
+      { "wavelength": 2050, "reflectance": 18.8 },
+      { "wavelength": 2100, "reflectance": 18.5 },
+      { "wavelength": 2150, "reflectance": 18.3 },
+      { "wavelength": 2200, "reflectance": 18.1 },
+      { "wavelength": 2250, "reflectance": 18.0 },
+      { "wavelength": 2300, "reflectance": 17.9 },
+      { "wavelength": 2350, "reflectance": 17.7 },
+      { "wavelength": 2400, "reflectance": 17.6 },
+      { "wavelength": 2450, "reflectance": 17.6 },
+      { "wavelength": 2500, "reflectance": 17.5 }
+    ]
+  },
+  {
+    "id": "mat-003",
+    "name": "材料三",
+    "code": "MAT-003",
+    "brief": "为湿地环境设计的仿生布料，低紫外反射并在NIR有峰值",
+    "description": "纤维含天然纤维素成分，表面吸湿导致短波反射降低，近红外段由于纤维结构形成强散射，从而在 800-1000 nm 出现明显峰值。",
+    "applications": "湿地伪装、河岸遮蔽、生态监测掩体",
+    "wavelengthRange": "350-2200 nm",
+    "conditions": "室温 18°C，湿度 60%，标准 D65 光源",
+    "date": "2025-01-20T14:00:00Z",
+    "thumbnail": "/static/spectrum-thumbnails/材料三.png",
+    "spectrumData": [
+      { "wavelength": 400, "reflectance": 12.0 },
+      { "wavelength": 450, "reflectance": 13.2 },
+      { "wavelength": 500, "reflectance": 16.8 },
+      { "wavelength": 550, "reflectance": 20.5 },
+      { "wavelength": 600, "reflectance": 24.0 },
+      { "wavelength": 650, "reflectance": 27.0 },
+      { "wavelength": 700, "reflectance": 31.5 },
+      { "wavelength": 750, "reflectance": 36.8 },
+      { "wavelength": 800, "reflectance": 42.0 },
+      { "wavelength": 850, "reflectance": 46.3 },
+      { "wavelength": 900, "reflectance": 49.0 },
+      { "wavelength": 950, "reflectance": 48.4 },
+      { "wavelength": 1000, "reflectance": 46.0 },
+      { "wavelength": 1050, "reflectance": 44.2 },
+      { "wavelength": 1100, "reflectance": 41.5 },
+      { "wavelength": 1150, "reflectance": 39.0 },
+      { "wavelength": 1200, "reflectance": 36.0 },
+      { "wavelength": 1250, "reflectance": 33.5 },
+      { "wavelength": 1300, "reflectance": 30.0 },
+      { "wavelength": 1350, "reflectance": 26.0 },
+      { "wavelength": 1400, "reflectance": 20.0 },
+      { "wavelength": 1450, "reflectance": 17.0 },
+      { "wavelength": 1500, "reflectance": 18.6 },
+      { "wavelength": 1550, "reflectance": 20.0 },
+      { "wavelength": 1600, "reflectance": 21.5 },
+      { "wavelength": 1650, "reflectance": 22.8 },
+      { "wavelength": 1700, "reflectance": 23.5 },
+      { "wavelength": 1750, "reflectance": 23.0 },
+      { "wavelength": 1800, "reflectance": 21.8 },
+      { "wavelength": 1850, "reflectance": 20.5 },
+      { "wavelength": 1900, "reflectance": 18.0 },
+      { "wavelength": 1950, "reflectance": 16.5 },
+      { "wavelength": 2000, "reflectance": 15.8 },
+      { "wavelength": 2050, "reflectance": 15.4 },
+      { "wavelength": 2100, "reflectance": 15.1 },
+      { "wavelength": 2150, "reflectance": 14.8 },
+      { "wavelength": 2200, "reflectance": 14.6 }
+    ]
+  },
+  {
+    "id": "mat-004",
+    "name": "材料四",
+    "code": "MAT-004",
+    "brief": "低可见光反射，高温稳定性，适合城市伪装与建筑隐蔽",
+    "description": "陶瓷基底与黑色氧化物颜料复配，能在可见光维持低反射，在短波红外有平缓上升以减少热轮廓差异。",
+    "applications": "城市伪装面板、建筑外墙隐蔽、设备外壳",
+    "wavelengthRange": "400-2500 nm",
+    "conditions": "高温老化 120°C 后测量，标准光源 D65",
+    "date": "2024-08-09T09:00:00Z",
+    "thumbnail": "/static/spectrum-thumbnails/材料四.png",
+    "spectrumData": [
+      { "wavelength": 400, "reflectance": 6.5 },
+      { "wavelength": 450, "reflectance": 6.8 },
+      { "wavelength": 500, "reflectance": 7.2 },
+      { "wavelength": 550, "reflectance": 7.5 },
+      { "wavelength": 600, "reflectance": 7.8 },
+      { "wavelength": 650, "reflectance": 8.5 },
+      { "wavelength": 700, "reflectance": 9.6 },
+      { "wavelength": 750, "reflectance": 11.0 },
+      { "wavelength": 800, "reflectance": 13.0 },
+      { "wavelength": 850, "reflectance": 14.8 },
+      { "wavelength": 900, "reflectance": 16.5 },
+      { "wavelength": 950, "reflectance": 17.8 },
+      { "wavelength": 1000, "reflectance": 19.0 },
+      { "wavelength": 1050, "reflectance": 19.6 },
+      { "wavelength": 1100, "reflectance": 20.0 },
+      { "wavelength": 1150, "reflectance": 20.2 },
+      { "wavelength": 1200, "reflectance": 20.4 },
+      { "wavelength": 1250, "reflectance": 20.3 },
+      { "wavelength": 1300, "reflectance": 19.8 },
+      { "wavelength": 1350, "reflectance": 18.5 },
+      { "wavelength": 1400, "reflectance": 15.0 },
+      { "wavelength": 1450, "reflectance": 11.5 },
+      { "wavelength": 1500, "reflectance": 12.0 },
+      { "wavelength": 1550, "reflectance": 13.0 },
+      { "wavelength": 1600, "reflectance": 14.2 },
+      { "wavelength": 1650, "reflectance": 15.1 },
+      { "wavelength": 1700, "reflectance": 15.5 },
+      { "wavelength": 1750, "reflectance": 15.3 },
+      { "wavelength": 1800, "reflectance": 14.8 },
+      { "wavelength": 1850, "reflectance": 14.0 },
+      { "wavelength": 1900, "reflectance": 12.6 },
+      { "wavelength": 1950, "reflectance": 11.8 },
+      { "wavelength": 2000, "reflectance": 11.4 },
+      { "wavelength": 2050, "reflectance": 11.1 },
+      { "wavelength": 2100, "reflectance": 10.9 },
+      { "wavelength": 2150, "reflectance": 10.7 },
+      { "wavelength": 2200, "reflectance": 10.6 },
+      { "wavelength": 2250, "reflectance": 10.5 },
+      { "wavelength": 2300, "reflectance": 10.4 },
+      { "wavelength": 2350, "reflectance": 10.3 },
+      { "wavelength": 2400, "reflectance": 10.3 },
+      { "wavelength": 2450, "reflectance": 10.2 },
+      { "wavelength": 2500, "reflectance": 10.2 }
+    ]
+  },
+  {
+    "id": "mat-005",
+    "name": "材料五",
+    "code": "MAT-005",
+    "brief": "浅灰色针对雪地与霜冻表面的伪装材料，短波高反射以匹配雪地亮度",
+    "description": "含白色填料与低吸收基体，使得在可见到短波近红外段总体反射偏高，同时在水吸收带处有弱吸收特征。",
+    "applications": "雪地伪装、冰原勘查帐篷、冬季伪装服",
+    "wavelengthRange": "400-2500 nm",
+    "conditions": "低温 0°C 下测量，D65 光源",
+    "date": "2024-12-01T12:00:00Z",
+    "thumbnail": "/static/spectrum-thumbnails/材料五.png",
+    "spectrumData": [
+      { "wavelength": 400, "reflectance": 55.0 },
+      { "wavelength": 450, "reflectance": 56.2 },
+      { "wavelength": 500, "reflectance": 57.1 },
+      { "wavelength": 550, "reflectance": 58.3 },
+      { "wavelength": 600, "reflectance": 59.0 },
+      { "wavelength": 650, "reflectance": 59.8 },
+      { "wavelength": 700, "reflectance": 60.5 },
+      { "wavelength": 750, "reflectance": 61.2 },
+      { "wavelength": 800, "reflectance": 62.0 },
+      { "wavelength": 850, "reflectance": 62.5 },
+      { "wavelength": 900, "reflectance": 62.8 },
+      { "wavelength": 950, "reflectance": 62.5 },
+      { "wavelength": 1000, "reflectance": 61.8 },
+      { "wavelength": 1050, "reflectance": 60.9 },
+      { "wavelength": 1100, "reflectance": 59.5 },
+      { "wavelength": 1150, "reflectance": 57.8 },
+      { "wavelength": 1200, "reflectance": 56.0 },
+      { "wavelength": 1250, "reflectance": 54.7 },
+      { "wavelength": 1300, "reflectance": 51.0 },
+      { "wavelength": 1350, "reflectance": 45.0 },
+      { "wavelength": 1400, "reflectance": 38.0 },
+      { "wavelength": 1450, "reflectance": 33.5 },
+      { "wavelength": 1500, "reflectance": 34.8 },
+      { "wavelength": 1550, "reflectance": 36.4 },
+      { "wavelength": 1600, "reflectance": 38.1 },
+      { "wavelength": 1650, "reflectance": 39.2 },
+      { "wavelength": 1700, "reflectance": 40.0 },
+      { "wavelength": 1750, "reflectance": 39.6 },
+      { "wavelength": 1800, "reflectance": 38.2 },
+      { "wavelength": 1850, "reflectance": 36.0 },
+      { "wavelength": 1900, "reflectance": 33.0 },
+      { "wavelength": 1950, "reflectance": 31.2 },
+      { "wavelength": 2000, "reflectance": 30.0 },
+      { "wavelength": 2050, "reflectance": 29.4 },
+      { "wavelength": 2100, "reflectance": 28.9 },
+      { "wavelength": 2150, "reflectance": 28.6 },
+      { "wavelength": 2200, "reflectance": 28.3 },
+      { "wavelength": 2250, "reflectance": 28.1 },
+      { "wavelength": 2300, "reflectance": 28.0 },
+      { "wavelength": 2350, "reflectance": 27.9 },
+      { "wavelength": 2400, "reflectance": 27.8 },
+      { "wavelength": 2450, "reflectance": 27.8 },
+      { "wavelength": 2500, "reflectance": 27.7 }
+    ]
+  },
+  {
+    "id": "mat-006",
+    "name": "材料六",
+    "code": "MAT-006",
+    "brief": "模拟岩石与碎石纹理的复合材料，具有多峰反射特征",
+    "description": "复合基材中加入不同粒径的矿物粉末，导致可见-近红外范围内出现多处散射峰和吸收谷，便于在山地或岩石地貌中伪装。",
+    "applications": "固定掩体、山地伪装网、地形融入材料",
+    "wavelengthRange": "400-2500 nm",
+    "conditions": "室温 21°C，样品自然风干后测量",
+    "date": "2025-06-02T11:45:00Z",
+    "thumbnail": "/static/spectrum-thumbnails/材料六.png",
+    "spectrumData": [
+      { "wavelength": 400, "reflectance": 18.0 },
+      { "wavelength": 450, "reflectance": 19.5 },
+      { "wavelength": 500, "reflectance": 22.2 },
+      { "wavelength": 550, "reflectance": 25.6 },
+      { "wavelength": 600, "reflectance": 28.9 },
+      { "wavelength": 650, "reflectance": 31.7 },
+      { "wavelength": 700, "reflectance": 34.5 },
+      { "wavelength": 750, "reflectance": 36.0 },
+      { "wavelength": 800, "reflectance": 37.5 },
+      { "wavelength": 850, "reflectance": 39.2 },
+      { "wavelength": 900, "reflectance": 40.6 },
+      { "wavelength": 950, "reflectance": 41.0 },
+      { "wavelength": 1000, "reflectance": 41.8 },
+      { "wavelength": 1050, "reflectance": 41.2 },
+      { "wavelength": 1100, "reflectance": 40.0 },
+      { "wavelength": 1150, "reflectance": 38.5 },
+      { "wavelength": 1200, "reflectance": 36.8 },
+      { "wavelength": 1250, "reflectance": 35.2 },
+      { "wavelength": 1300, "reflectance": 33.0 },
+      { "wavelength": 1350, "reflectance": 30.5 },
+      { "wavelength": 1400, "reflectance": 25.0 },
+      { "wavelength": 1450, "reflectance": 20.8 },
+      { "wavelength": 1500, "reflectance": 22.4 },
+      { "wavelength": 1550, "reflectance": 24.0 },
+      { "wavelength": 1600, "reflectance": 25.5 },
+      { "wavelength": 1650, "reflectance": 26.8 },
+      { "wavelength": 1700, "reflectance": 27.9 },
+      { "wavelength": 1750, "reflectance": 27.6 },
+      { "wavelength": 1800, "reflectance": 26.3 },
+      { "wavelength": 1850, "reflectance": 24.9 },
+      { "wavelength": 1900, "reflectance": 22.5 },
+      { "wavelength": 1950, "reflectance": 21.0 },
+      { "wavelength": 2000, "reflectance": 20.0 },
+      { "wavelength": 2050, "reflectance": 19.4 },
+      { "wavelength": 2100, "reflectance": 19.0 },
+      { "wavelength": 2150, "reflectance": 18.7 },
+      { "wavelength": 2200, "reflectance": 18.5 },
+      { "wavelength": 2250, "reflectance": 18.3 },
+      { "wavelength": 2300, "reflectance": 18.2 },
+      { "wavelength": 2350, "reflectance": 18.1 },
+      { "wavelength": 2400, "reflectance": 18.0 },
+      { "wavelength": 2450, "reflectance": 17.9 },
+      { "wavelength": 2500, "reflectance": 17.8 }
+    ]
+  },
+  {
+    "id": "mat-007",
+    "name": "材料七",
+    "code": "MAT-007",
+    "brief": "专为夜间可见光条件优化的薄膜，白天表现中性，夜间亮度低",
+    "description": "基于选择性吸收材料层叠，使可见波段整体反射降低而近红外保留一定反射，用于减少夜间探测器对比度。",
+    "applications": "夜视抑制罩、车灯反反射抑制、被动伪装",
+    "wavelengthRange": "400-2500 nm",
+    "conditions": "夜间低光照模拟，D65 等效校正",
+    "date": "2025-02-14T22:10:00Z",
+    "thumbnail": "/static/spectrum-thumbnails/材料七.png",
+    "spectrumData": [
+      { "wavelength": 400, "reflectance": 9.0 },
+      { "wavelength": 450, "reflectance": 9.5 },
+      { "wavelength": 500, "reflectance": 10.2 },
+      { "wavelength": 550, "reflectance": 11.0 },
+      { "wavelength": 600, "reflectance": 12.5 },
+      { "wavelength": 650, "reflectance": 14.8 },
+      { "wavelength": 700, "reflectance": 18.0 },
+      { "wavelength": 750, "reflectance": 21.5 },
+      { "wavelength": 800, "reflectance": 25.0 },
+      { "wavelength": 850, "reflectance": 28.2 },
+      { "wavelength": 900, "reflectance": 30.5 },
+      { "wavelength": 950, "reflectance": 31.8 },
+      { "wavelength": 1000, "reflectance": 32.6 },
+      { "wavelength": 1050, "reflectance": 32.2 },
+      { "wavelength": 1100, "reflectance": 31.0 },
+      { "wavelength": 1150, "reflectance": 29.5 },
+      { "wavelength": 1200, "reflectance": 27.8 },
+      { "wavelength": 1250, "reflectance": 26.4 },
+      { "wavelength": 1300, "reflectance": 24.0 },
+      { "wavelength": 1350, "reflectance": 21.0 },
+      { "wavelength": 1400, "reflectance": 16.5 },
+      { "wavelength": 1450, "reflectance": 13.0 },
+      { "wavelength": 1500, "reflectance": 13.8 },
+      { "wavelength": 1550, "reflectance": 15.0 },
+      { "wavelength": 1600, "reflectance": 16.5 },
+      { "wavelength": 1650, "reflectance": 17.6 },
+      { "wavelength": 1700, "reflectance": 18.4 },
+      { "wavelength": 1750, "reflectance": 18.1 },
+      { "wavelength": 1800, "reflectance": 17.0 },
+      { "wavelength": 1850, "reflectance": 15.8 },
+      { "wavelength": 1900, "reflectance": 13.9 },
+      { "wavelength": 1950, "reflectance": 12.8 },
+      { "wavelength": 2000, "reflectance": 12.0 },
+      { "wavelength": 2050, "reflectance": 11.6 },
+      { "wavelength": 2100, "reflectance": 11.3 },
+      { "wavelength": 2150, "reflectance": 11.1 },
+      { "wavelength": 2200, "reflectance": 11.0 },
+      { "wavelength": 2250, "reflectance": 10.9 },
+      { "wavelength": 2300, "reflectance": 10.8 },
+      { "wavelength": 2350, "reflectance": 10.7 },
+      { "wavelength": 2400, "reflectance": 10.6 },
+      { "wavelength": 2450, "reflectance": 10.6 },
+      { "wavelength": 2500, "reflectance": 10.5 }
+    ]
+  },
+  {
+    "id": "mat-008",
+    "name": "材料八",
+    "code": "MAT-008",
+    "brief": "针对开阔水面设计的涂料，蓝绿色区间反射较高以融入海面反射特征",
+    "description": "配方中加入选择性染料，在 450-600 nm 区间呈现较高反射，近红外随深度和湿度变化呈现平缓特性，便于舰艇或浮动物体伪装。",
+    "applications": "舰艇外壳、浮标、海上设备伪装",
+    "wavelengthRange": "400-2500 nm",
+    "conditions": "湿态涂层测量，表面有薄水膜，D65 光源",
+    "date": "2025-04-08T16:20:00Z",
+    "thumbnail": "/static/spectrum-thumbnails/材料八.png",
+    "spectrumData": [
+      { "wavelength": 400, "reflectance": 20.5 },
+      { "wavelength": 450, "reflectance": 28.0 },
+      { "wavelength": 500, "reflectance": 32.5 },
+      { "wavelength": 550, "reflectance": 35.8 },
+      { "wavelength": 600, "reflectance": 34.0 },
+      { "wavelength": 650, "reflectance": 30.5 },
+      { "wavelength": 700, "reflectance": 27.0 },
+      { "wavelength": 750, "reflectance": 25.0 },
+      { "wavelength": 800, "reflectance": 24.0 },
+      { "wavelength": 850, "reflectance": 24.2 },
+      { "wavelength": 900, "reflectance": 24.8 },
+      { "wavelength": 950, "reflectance": 25.5 },
+      { "wavelength": 1000, "reflectance": 26.0 },
+      { "wavelength": 1050, "reflectance": 25.8 },
+      { "wavelength": 1100, "reflectance": 25.0 },
+      { "wavelength": 1150, "reflectance": 24.2 },
+      { "wavelength": 1200, "reflectance": 23.5 },
+      { "wavelength": 1250, "reflectance": 22.8 },
+      { "wavelength": 1300, "reflectance": 21.0 },
+      { "wavelength": 1350, "reflectance": 19.0 },
+      { "wavelength": 1400, "reflectance": 15.0 },
+      { "wavelength": 1450, "reflectance": 12.0 },
+      { "wavelength": 1500, "reflectance": 13.0 },
+      { "wavelength": 1550, "reflectance": 14.6 },
+      { "wavelength": 1600, "reflectance": 16.0 },
+      { "wavelength": 1650, "reflectance": 17.2 },
+      { "wavelength": 1700, "reflectance": 18.0 },
+      { "wavelength": 1750, "reflectance": 17.6 },
+      { "wavelength": 1800, "reflectance": 16.4 },
+      { "wavelength": 1850, "reflectance": 15.0 },
+      { "wavelength": 1900, "reflectance": 13.0 },
+      { "wavelength": 1950, "reflectance": 12.0 },
+      { "wavelength": 2000, "reflectance": 11.4 },
+      { "wavelength": 2050, "reflectance": 11.0 },
+      { "wavelength": 2100, "reflectance": 10.8 },
+      { "wavelength": 2150, "reflectance": 10.6 },
+      { "wavelength": 2200, "reflectance": 10.5 },
+      { "wavelength": 2250, "reflectance": 10.4 },
+      { "wavelength": 2300, "reflectance": 10.3 },
+      { "wavelength": 2350, "reflectance": 10.2 },
+      { "wavelength": 2400, "reflectance": 10.2 },
+      { "wavelength": 2450, "reflectance": 10.1 },
+      { "wavelength": 2500, "reflectance": 10.1 }
+    ]
+  },
+  {
+    "id": "mat-009",
+    "name": "材料九",
+    "code": "MAT-009",
+    "brief": "专为草地环境设计，快速干燥且具有草绿色反射峰",
+    "description": "复合纤维加染料处理，在 500-700 nm 区间有明显高反射以模仿草地，并在 1400-1900 nm 范围表现出水吸收带抑制特性。",
+    "applications": "巡逻伪装网、移动帐篷、野外伪装服",
+    "wavelengthRange": "400-2500 nm",
+    "conditions": "室温 25°C，样品干燥状态，D65 光源",
+    "date": "2025-05-11T07:50:00Z",
+    "thumbnail": "/static/spectrum-thumbnails/材料九.png",
+    "spectrumData": [
+      { "wavelength": 400, "reflectance": 14.0 },
+      { "wavelength": 450, "reflectance": 16.5 },
+      { "wavelength": 500, "reflectance": 25.0 },
+      { "wavelength": 550, "reflectance": 32.0 },
+      { "wavelength": 600, "reflectance": 36.5 },
+      { "wavelength": 650, "reflectance": 40.0 },
+      { "wavelength": 700, "reflectance": 44.5 },
+      { "wavelength": 750, "reflectance": 46.0 },
+      { "wavelength": 800, "reflectance": 46.8 },
+      { "wavelength": 850, "reflectance": 47.2 },
+      { "wavelength": 900, "reflectance": 47.5 },
+      { "wavelength": 950, "reflectance": 46.8 },
+      { "wavelength": 1000, "reflectance": 45.0 },
+      { "wavelength": 1050, "reflectance": 43.0 },
+      { "wavelength": 1100, "reflectance": 40.2 },
+      { "wavelength": 1150, "reflectance": 37.5 },
+      { "wavelength": 1200, "reflectance": 35.0 },
+      { "wavelength": 1250, "reflectance": 33.0 },
+      { "wavelength": 1300, "reflectance": 30.0 },
+      { "wavelength": 1350, "reflectance": 26.0 },
+      { "wavelength": 1400, "reflectance": 21.0 },
+      { "wavelength": 1450, "reflectance": 17.8 },
+      { "wavelength": 1500, "reflectance": 18.6 },
+      { "wavelength": 1550, "reflectance": 19.8 },
+      { "wavelength": 1600, "reflectance": 21.0 },
+      { "wavelength": 1650, "reflectance": 22.0 },
+      { "wavelength": 1700, "reflectance": 22.6 },
+      { "wavelength": 1750, "reflectance": 22.3 },
+      { "wavelength": 1800, "reflectance": 21.2 },
+      { "wavelength": 1850, "reflectance": 19.8 },
+      { "wavelength": 1900, "reflectance": 17.6 },
+      { "wavelength": 1950, "reflectance": 16.0 },
+      { "wavelength": 2000, "reflectance": 15.0 },
+      { "wavelength": 2050, "reflectance": 14.5 },
+      { "wavelength": 2100, "reflectance": 14.1 },
+      { "wavelength": 2150, "reflectance": 13.9 },
+      { "wavelength": 2200, "reflectance": 13.7 },
+      { "wavelength": 2250, "reflectance": 13.6 },
+      { "wavelength": 2300, "reflectance": 13.5 },
+      { "wavelength": 2350, "reflectance": 13.4 },
+      { "wavelength": 2400, "reflectance": 13.3 },
+      { "wavelength": 2450, "reflectance": 13.2 },
+      { "wavelength": 2500, "reflectance": 13.2 }
+    ]
+  },
+  {
+    "id": "mat-010",
+    "name": "材料十",
+    "code": "MAT-010",
+    "brief": "轻质高透气网状材料，兼顾光谱与空气动力学要求",
+    "description": "网材采用薄膜与纤维复合结构，目标是在可见光引入局部纹理反射以打散轮廓，同时保持近红外的低对比度。",
+    "applications": "移动伪装网、空降遮蔽、临时掩体",
+    "wavelengthRange": "400-2500 nm",
+    "conditions": "风洞轻吹后测量，标准光源",
+    "date": "2025-07-01T09:30:00Z",
+    "thumbnail": "/static/spectrum-thumbnails/材料十.png",
+    "spectrumData": [
+      { "wavelength": 400, "reflectance": 17.2 },
+      { "wavelength": 450, "reflectance": 18.5 },
+      { "wavelength": 500, "reflectance": 20.8 },
+      { "wavelength": 550, "reflectance": 24.0 },
+      { "wavelength": 600, "reflectance": 26.5 },
+      { "wavelength": 650, "reflectance": 28.9 },
+      { "wavelength": 700, "reflectance": 31.5 },
+      { "wavelength": 750, "reflectance": 33.0 },
+      { "wavelength": 800, "reflectance": 34.0 },
+      { "wavelength": 850, "reflectance": 34.6 },
+      { "wavelength": 900, "reflectance": 35.0 },
+      { "wavelength": 950, "reflectance": 34.8 },
+      { "wavelength": 1000, "reflectance": 34.2 },
+      { "wavelength": 1050, "reflectance": 33.6 },
+      { "wavelength": 1100, "reflectance": 32.4 },
+      { "wavelength": 1150, "reflectance": 31.0 },
+      { "wavelength": 1200, "reflectance": 29.5 },
+      { "wavelength": 1250, "reflectance": 28.0 },
+      { "wavelength": 1300, "reflectance": 25.5 },
+      { "wavelength": 1350, "reflectance": 22.0 },
+      { "wavelength": 1400, "reflectance": 17.5 },
+      { "wavelength": 1450, "reflectance": 14.2 },
+      { "wavelength": 1500, "reflectance": 15.0 },
+      { "wavelength": 1550, "reflectance": 16.2 },
+      { "wavelength": 1600, "reflectance": 17.6 },
+      { "wavelength": 1650, "reflectance": 18.8 },
+      { "wavelength": 1700, "reflectance": 19.6 },
+      { "wavelength": 1750, "reflectance": 19.3 },
+      { "wavelength": 1800, "reflectance": 18.4 },
+      { "wavelength": 1850, "reflectance": 17.2 },
+      { "wavelength": 1900, "reflectance": 15.5 },
+      { "wavelength": 1950, "reflectance": 14.0 },
+      { "wavelength": 2000, "reflectance": 13.2 },
+      { "wavelength": 2050, "reflectance": 12.8 },
+      { "wavelength": 2100, "reflectance": 12.5 },
+      { "wavelength": 2150, "reflectance": 12.3 },
+      { "wavelength": 2200, "reflectance": 12.2 },
+      { "wavelength": 2250, "reflectance": 12.1 },
+      { "wavelength": 2300, "reflectance": 12.0 },
+      { "wavelength": 2350, "reflectance": 11.9 },
+      { "wavelength": 2400, "reflectance": 11.9 },
+      { "wavelength": 2450, "reflectance": 11.8 },
+      { "wavelength": 2500, "reflectance": 11.8 }
+    ]
+  },
+  {
+    "id": "mat-011",
+    "name": "材料十一",
+    "code": "MAT-011",
+    "brief": "多层抗反射膜，降低镜面反射与散射突变",
+    "description": "通过多层介质膜叠加和亚波长结构控制，使得在入射角变化时仍能保持反射稳定，适合需要角度不敏感的伪装表面。",
+    "applications": "移动目标外壳、观测平台、隐蔽摄像头外罩",
+    "wavelengthRange": "400-2500 nm",
+    "conditions": "不同入射角 (0°/30°/60°) 测试结果取 30° 数据",
+    "date": "2025-03-28T13:05:00Z",
+    "thumbnail": "/static/spectrum-thumbnails/材料十一.png",
+    "spectrumData": [
+      { "wavelength": 400, "reflectance": 8.8 },
+      { "wavelength": 450, "reflectance": 9.2 },
+      { "wavelength": 500, "reflectance": 10.1 },
+      { "wavelength": 550, "reflectance": 11.5 },
+      { "wavelength": 600, "reflectance": 13.0 },
+      { "wavelength": 650, "reflectance": 15.0 },
+      { "wavelength": 700, "reflectance": 18.0 },
+      { "wavelength": 750, "reflectance": 20.5 },
+      { "wavelength": 800, "reflectance": 23.0 },
+      { "wavelength": 850, "reflectance": 24.8 },
+      { "wavelength": 900, "reflectance": 26.2 },
+      { "wavelength": 950, "reflectance": 26.8 },
+      { "wavelength": 1000, "reflectance": 27.2 },
+      { "wavelength": 1050, "reflectance": 26.9 },
+      { "wavelength": 1100, "reflectance": 25.8 },
+      { "wavelength": 1150, "reflectance": 24.6 },
+      { "wavelength": 1200, "reflectance": 23.4 },
+      { "wavelength": 1250, "reflectance": 22.3 },
+      { "wavelength": 1300, "reflectance": 20.0 },
+      { "wavelength": 1350, "reflectance": 17.2 },
+      { "wavelength": 1400, "reflectance": 13.0 },
+      { "wavelength": 1450, "reflectance": 10.0 },
+      { "wavelength": 1500, "reflectance": 10.8 },
+      { "wavelength": 1550, "reflectance": 12.0 },
+      { "wavelength": 1600, "reflectance": 13.4 },
+      { "wavelength": 1650, "reflectance": 14.6 },
+      { "wavelength": 1700, "reflectance": 15.4 },
+      { "wavelength": 1750, "reflectance": 15.1 },
+      { "wavelength": 1800, "reflectance": 14.0 },
+      { "wavelength": 1850, "reflectance": 12.8 },
+      { "wavelength": 1900, "reflectance": 11.0 },
+      { "wavelength": 1950, "reflectance": 10.0 },
+      { "wavelength": 2000, "reflectance": 9.4 },
+      { "wavelength": 2050, "reflectance": 9.0 },
+      { "wavelength": 2100, "reflectance": 8.8 },
+      { "wavelength": 2150, "reflectance": 8.6 },
+      { "wavelength": 2200, "reflectance": 8.5 },
+      { "wavelength": 2250, "reflectance": 8.4 },
+      { "wavelength": 2300, "reflectance": 8.3 },
+      { "wavelength": 2350, "reflectance": 8.2 },
+      { "wavelength": 2400, "reflectance": 8.2 },
+      { "wavelength": 2450, "reflectance": 8.1 },
+      { "wavelength": 2500, "reflectance": 8.1 }
+    ]
+  },
+  {
+    "id": "mat-012",
+    "name": "材料十二",
+    "code": "MAT-012",
+    "brief": "人造砂砾掺入干叶的混合布样，适应多样化地表纹理",
+    "description": "通过机械混合真实植物碎片与人造颗粒得到多尺度纹理，使得在不同波段上反射曲线具有明显波动，利于在复杂地形隐蔽。",
+    "applications": "多地形伪装、野战掩体、科研背景板",
+    "wavelengthRange": "400-2500 nm",
+    "conditions": "自然干燥样品，常温测量",
+    "date": "2025-06-18T10:00:00Z",
+    "thumbnail": "/static/spectrum-thumbnails/材料十二.png",
+    "spectrumData": [
+      { "wavelength": 400, "reflectance": 19.0 },
+      { "wavelength": 450, "reflectance": 20.5 },
+      { "wavelength": 500, "reflectance": 23.8 },
+      { "wavelength": 550, "reflectance": 27.6 },
+      { "wavelength": 600, "reflectance": 30.9 },
+      { "wavelength": 650, "reflectance": 33.5 },
+      { "wavelength": 700, "reflectance": 36.2 },
+      { "wavelength": 750, "reflectance": 38.0 },
+      { "wavelength": 800, "reflectance": 39.1 },
+      { "wavelength": 850, "reflectance": 39.8 },
+      { "wavelength": 900, "reflectance": 40.0 },
+      { "wavelength": 950, "reflectance": 39.6 },
+      { "wavelength": 1000, "reflectance": 38.8 },
+      { "wavelength": 1050, "reflectance": 37.8 },
+      { "wavelength": 1100, "reflectance": 36.5 },
+      { "wavelength": 1150, "reflectance": 34.8 },
+      { "wavelength": 1200, "reflectance": 33.0 },
+      { "wavelength": 1250, "reflectance": 31.2 },
+      { "wavelength": 1300, "reflectance": 28.5 },
+      { "wavelength": 1350, "reflectance": 25.0 },
+      { "wavelength": 1400, "reflectance": 20.5 },
+      { "wavelength": 1450, "reflectance": 17.2 },
+      { "wavelength": 1500, "reflectance": 18.0 },
+      { "wavelength": 1550, "reflectance": 19.2 },
+      { "wavelength": 1600, "reflectance": 20.6 },
+      { "wavelength": 1650, "reflectance": 21.8 },
+      { "wavelength": 1700, "reflectance": 22.5 },
+      { "wavelength": 1750, "reflectance": 22.1 },
+      { "wavelength": 1800, "reflectance": 20.9 },
+      { "wavelength": 1850, "reflectance": 19.5 },
+      { "wavelength": 1900, "reflectance": 17.2 },
+      { "wavelength": 1950, "reflectance": 15.8 },
+      { "wavelength": 2000, "reflectance": 14.8 },
+      { "wavelength": 2050, "reflectance": 14.2 },
+      { "wavelength": 2100, "reflectance": 13.8 },
+      { "wavelength": 2150, "reflectance": 13.5 },
+      { "wavelength": 2200, "reflectance": 13.3 },
+      { "wavelength": 2250, "reflectance": 13.1 },
+      { "wavelength": 2300, "reflectance": 13.0 },
+      { "wavelength": 2350, "reflectance": 12.9 },
+      { "wavelength": 2400, "reflectance": 12.8 },
+      { "wavelength": 2450, "reflectance": 12.8 },
+      { "wavelength": 2500, "reflectance": 12.7 }
+    ]
+  }
+]
