@@ -55,18 +55,11 @@ mvn spring-boot:run "-Dspring-boot.run.jvmArguments=-Xmx10g -Xms2g" "-Dspring-bo
 在本地数据根目录下按日期存放 HDR、IMG 等配套文件时，可以在启动后端前临时设置可视化和融合输入目录：
 
 ```cmd
-set HYPER_VISUALIZATION_ROOT=\\YOUR-NAS\hyperspectral-data
-set HYPER_FUSION_SEARCH_ROOT=\\YOUR-NAS\hyperspectral-data
+set HYPER_VISUALIZATION_ROOT=\\DESKTOP-KK21D6V\Wayho
+set HYPER_FUSION_SEARCH_ROOT=\\DESKTOP-KK21D6V\Wayho
 set HYPER_MIAE_PYTHON=D:\Anaconda3\envs\htd\python.exe
 mvn spring-boot:run
 ```
-```
-set HYPER_VISUALIZATION_ROOT=E:\Java\code\Hyper
-set HYPER_FUSION_SEARCH_ROOT=E:\Java\code\Hyper
-set HYPER_MIAE_PYTHON=D:\Anaconda3\envs\htd\python.exe
-mvn spring-boot:run
-```
-
 - `HYPER_VISUALIZATION_ROOT`：高光谱可视化的数据查找根目录。
 - `HYPER_FUSION_SEARCH_ROOT`：融合算法的输入数据查找根目录。
 - `set` 设置仅对当前 CMD 窗口有效，关闭窗口后自动失效；修改变量后需要重启后端。
