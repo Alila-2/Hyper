@@ -47,7 +47,6 @@
 ```bash
 cd hyperspectral-server
 mvn spring-boot:run
-mvn spring-boot:run "-Dspring-boot.run.jvmArguments=-Xmx10g -Xms2g" "-Dspring-boot.run.optimizedLaunch=false"
 ```
 
 #### Windows CMD 临时切换数据目录
